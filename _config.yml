@@ -1,7 +1,11 @@
 # Where things are
-"plugins_dir"       => "_plugins"
-"layouts_dir"       => "_layouts",
-"includes_dir"      => "_includes",
+source:       .
+destination:  ./_site
+plugins_dir:  ./_plugins
+layouts_dir:  ./_layouts
+data_dir:     ./_data
+includes_dir: ./_includes
+collections:  null
 
 # Site settings
 title: "پیغام خطای 0x12F"
@@ -29,7 +33,7 @@ favicon: "favico.png"
 
 
 #outputting
-permalink: :posts/:title.html
+permalink: title
 
 # Build settings
 markdown: markright
