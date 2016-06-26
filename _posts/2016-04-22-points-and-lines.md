@@ -131,7 +131,7 @@ C = A + B;
 
 پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت می‌کند مقدار نمو آن به صورت زیر محاسبه می‌شود:
 <p><blackquote class="alert">
-<span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span>
+<span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span><br>
 <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span>
 </blackquote></p>
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
