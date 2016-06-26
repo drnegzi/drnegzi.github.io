@@ -4,7 +4,7 @@ title: بله، ما از Jekyll استفاده می‌کنیم.
 category: [عمومی]
 tags: [عمومی, Jekyll]
 date: 2016-02-18 01:50:00 +0330
-permalink: /blog/yes-we-jekyll
+permalink: /post/yes-we-jekyll
 url: /blog/yes-we-jekyll
 published: true
 comments: true
