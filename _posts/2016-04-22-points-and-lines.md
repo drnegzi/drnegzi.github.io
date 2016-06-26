@@ -216,7 +216,7 @@ bool ArePerpendicular(float slope1, float slope2)
 </blackquote></p>
 <p><blackquote class="alert">
 معادله نقطه-شیب:<br>
-<span>y - y<sub>1</sub> = m(x - x<sub>1</sub>)</span><br>
+<span>y - y<sub>1</sub> = (x - x<sub>1</sub>)m</span><br>
 این خط از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> و با شیب m می‌گذرد.
 </blackquote></p>
 
@@ -226,5 +226,5 @@ bool ArePerpendicular(float slope1, float slope2)
 
 هر چند بعدها به بررسی این مورد خواهیم پرداخت، اما یکی از مزایای دیگر معادله نقطه-شیب قابلیت استفاده از آن در فضای سه بعدی و بر روی بردارهاست.
 
-<div class=post-inline-title">نکات تکمیلی شیب خطوط</div>
+<div class="post-inline-title">نکات تکمیلی شیب خطوط</div>
 شیب خطوط می‌تواند اطلاعات مفید دیگری را هم در اختیار ما بگذارد، مثلا خطوطی که دارای <span class="font-color-white">شیب مثبت</span> هستند، خطوطی هستند که بر روی دستگاه مختصات و در حرکت از سمت چپ به سمت راست، دارای <span class="font-color-white">افزایش ارتقاع</span> هستند. به همین ترتیب خطوط دارای <span class="font-color-white">شیب منفی</span> در حرکت از سمت چپ به سمت راست صفحه مختصات با <span class="font-color-white">کاهش ارتفاع</span> همراه هستند. خطوطی که دارای <span class="font-color-white">شیب صفر</span> هستند، خطوط افقی هستند و خطوطی که دارای <span class="font-color-white">شیب تعریف</span> نشده هستند، خطوط عمودی هستند.
