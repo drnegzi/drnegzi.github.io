@@ -115,7 +115,7 @@ C = A + B;
 خط در هندسه به معنی اتصال یا امتداد دو نقطه در یک راستا و بر روی یک صفحه است.
 
 اما به بیان دیگر اگر یک <span class="font-color-white">معادله خطی</span> را در نظر بگیریم، هر زوج مرتبی که در معادله مفروض صدق کند، به عنوان یک جواب این معادله شناخته می‌شود. حال اگر تمام جواب‌های یک معادله خطی را روی یک دستگاه مختصات رسم کنیم، طرح ایجاد شده را خط می‌نامیم. دلیل نامگذاری این دسته از معادلات به نام <span class="font-color-white">معادلات خطی</span> همین موضوع است.<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-graphing-linear-equation.png"/>
-شکل فوق جواب‌های معادله <span>y = 3x + 1</span> را نشان می‌دهد.
+شکل فوق جواب‌های معادله <span>y = ۳x + ۱</span> را نشان می‌دهد.
 
 به طور کلی می‌توانیم بگوییم که نمودار هر معادله به صورت <span>Ax + By = C</span> یک خط صاف است، اگر و فقط اگر هر دو مقدار <span>A</span> و <span>B</span> به طور همزمان برابر با صفر نباشند.
 
@@ -129,17 +129,17 @@ C = A + B;
 
 در واقع نمو میزان تغییرات خالص مختصات ذره‌ای است که در یک صفحه از یک مکان به مکان دیگری حرکت می‌کند. این تغییرات با تفریق مختصات نقطه آغاز از نقطه پایان محاسبه میشود. معمولا این تغییرات را با علائم <span class="font-color-white">&Delta;x</span> و <span class="font-color-white">&Delta;y</span> نشان میدهیم. علامت <span>&Delta;</span> یکی از حروف بزرگ الفبای یونانی است که معادل حرف <span>d</span> در زبان انگلیسی است و با توجه به حرف اول کلمه <span>differenece</span> به معنی تفاضل انتخاب شده است.
 
-پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت می‌کند مقدار نمو آن به صورت زیر محاسبه می‌شود:
+پس وقتی ذره‌ای از نقطه <span>(x<sub>۱</sub>, y<sub>۱</sub>)</span> به نقطه <span>(x<sub>۲</sub>, y<sub>۲</sub>)</span> حرکت می‌کند مقدار نمو آن به صورت زیر محاسبه می‌شود:
 <p><blackquote class="alert">
-<span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span><br>
-<span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span>
+<span>&Delta;y = y<sub>۲</sub> - y<sub>۱</sub></span><br>
+<span>&Delta;x = x<sub>۲</sub> - x<sub>۱</sub></span>
 </blackquote></p>
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
 منبع تصویر فوق سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
 
-همانطور که در تصویر مشاهده می‌کنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط موجود شکل برابر با <span>1&frasl;3</span> است.
+همانطور که در تصویر مشاهده می‌کنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با ۱ و میزان نمو طولی یعنی <span>&Delta;</span> برابر با ۳ است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط موجود شکل برابر با <span>۱&frasl;۳</span> است.
 <p><blackquote class="alert">
-<span>m = &Delta;y&frasl;&Delta;x = 1&frasl;3</span>
+<span>m = &Delta;y&frasl;&Delta;x = ۱&frasl;۳</span>
 </blackquote></p>
 به یاد داشت باشید که شیب خط مستقل از دو نقطه‌ای است که روی خط انتخاب می‌کنیم.
 
@@ -168,15 +168,15 @@ float SlopeBetweenPoints(Point2d P1, Point2d P2)
 </div>
 
 <div class="post-inline-title">خطوط موازی</div>
-فرض کنید دو خط زیر که حاصل از دو معادله <span>y = (1&frasl;2)x + 1</span> و <span>-3x + 6y = -12</span> را داریم:
+فرض کنید دو خط زیر که حاصل از دو معادله <span>y = (۱&frasl;۲)x + ۱</span> و <span>۳x + ۶y = -۱۲-</span> را داریم:
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-parallel-lines.png"/>
-شیب هر دو خط برابر با <span>1&frasl;2</span> است، این دو خط را موازی می‌نامیم. در ریاضیات برای خطوط، تعریفی به نام <span class="font-color-white">زاویه میل</span> داریم. زاویه میل یک خط که محور xها را قطع می‌کند، کوچکترین زواویه‌ای است که اگر اندازه گیری را در خلاف عقربه‌های ساعت از محور x و در حول نقطه تقاطع انجام دهیم، به دست می‌آید. طبق این تعریف، شیب یک خط از مقدار <span>tan</span> این زاویه محاسبه می‌شود. پس می‌توان دو خط موازی را خطوطی در نظر گرفت که زاویه میل‌های آنها با هم برابر است.
+شیب هر دو خط برابر با <span>۱&frasl;۲</span> است، این دو خط را موازی می‌نامیم. در ریاضیات برای خطوط، تعریفی به نام <span class="font-color-white">زاویه میل</span> داریم. زاویه میل یک خط که محور xها را قطع می‌کند، کوچکترین زواویه‌ای است که اگر اندازه گیری را در خلاف عقربه‌های ساعت از محور x و در حول نقطه تقاطع انجام دهیم، به دست می‌آید. طبق این تعریف، شیب یک خط از مقدار <span>tan</span> این زاویه محاسبه می‌شود. پس می‌توان دو خط موازی را خطوطی در نظر گرفت که زاویه میل‌های آنها با هم برابر است.
 
 <div class="post-inline-title">خطوط عمود</div>
 مورد دیگری که درباره وضعیت دو خط نسبت به هم، از روابط بین مقدار شیب این دو خط قابل بررسی است، عمود بودن دو خط بر هم است.
 دو خط عمود بر هم یا متعامد، خطوطی هستند که حاصلضرب شیب آنها در یکدیگر، همواره برابر با <span>۱-</span> باشد.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-orthogonal-lines.png"/>
-شکل بالا وضعیت دو خط <span>y = (-3&frasl;2)x + 4</span> و <span>y = (2&frasl;3)x + 1</span> را نشان می‌دهد.
+شکل بالا وضعیت دو خط <span>y = (-۳&frasl;۲)x + ۴</span> و <span>y = (۲&frasl;۳)x + ۱</span> را نشان می‌دهد.
 
 <div class="post-inline-title">محاسبه شیب خط عمود در کد</div>
 برای محاسبه شیب خط عمود بر یک خط در کد، با استفاده از شیب حساب شده در قسمت قبلی می‌توانیم از تابع زیر استفاده کنیم:
