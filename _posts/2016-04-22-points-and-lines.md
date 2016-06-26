@@ -135,9 +135,13 @@ C = A + B;
 <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span>
 </blackquote></p>
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
-تصویر فوق از سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
-همانطور که در تصویر مشاهده میکنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط شکل برابر با <span>1&frasl;3</span> است.
-به یاد داشت باشید که شیب خط مستقل از دو نقطه‌ای است که روی خط انتخاب میکنیم.
+منبع تصویر فوق سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
+
+همانطور که در تصویر مشاهده می‌کنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط موجود شکل برابر با <span>1&frasl;3</span> است.
+<p><blackquote class="alert">
+<span>m = &Delta;y&frasl;&Delta;x = 1&frasl;3</span>
+</blackquote></p>
+به یاد داشت باشید که شیب خط مستقل از دو نقطه‌ای است که روی خط انتخاب می‌کنیم.
 
 <div class="post-inline-title">محاسبه شیب خط در کد</div>
 برای محاسبه شیب خط بین دو نقطه، با توجه به تعریف نقاط در قسمت قبل در کد داریم:
