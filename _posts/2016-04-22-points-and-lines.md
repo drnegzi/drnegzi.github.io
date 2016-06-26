@@ -127,9 +127,13 @@ C = A + B;
 
 برای بهتر روشن شدن موضوع لازم است مفهموم <span class="font-color-white">نمو</span> را بررسی کنیم. 
 
-در واقع نمو میزان تغییران خالص مختصات ذره‌ای است که در یک صفحه از یک مکان به مکان دیگری حرکت میکند. این تغییرات با تفریق مختصات نقطه آغاز از نقطه پایان محاسبه میشود. معمولا این تغییرات را با علائم <span class="font-color-white">&Delta;x</span> و <span class="font-color-white">&Delta;y</span> نشان میدهیم. علامت <span>&Delta;</span> یکی از حروف بزرگ الفبای یونانی است که معادل حرف <span>d</span> در زبان انگلیسی است و با توجه به حرف اول کلمه <span>differenece</span> به معنی تفاضل انتخاب شده است.
+در واقع نمو میزان تغییرات خالص مختصات ذره‌ای است که در یک صفحه از یک مکان به مکان دیگری حرکت می‌کند. این تغییرات با تفریق مختصات نقطه آغاز از نقطه پایان محاسبه میشود. معمولا این تغییرات را با علائم <span class="font-color-white">&Delta;x</span> و <span class="font-color-white">&Delta;y</span> نشان میدهیم. علامت <span>&Delta;</span> یکی از حروف بزرگ الفبای یونانی است که معادل حرف <span>d</span> در زبان انگلیسی است و با توجه به حرف اول کلمه <span>differenece</span> به معنی تفاضل انتخاب شده است.
 
-پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت میکند مقدار نمو آن به صورت: <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span> و <span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span> محاسبه میشود.
+پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت می‌کند مقدار نمو آن به صورت زیر محاسبه می‌شود:
+<p><blackquote class="alert">
+<span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span>
+<span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span>
+</blackquote></p>
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
 تصویر فوق از سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
 همانطور که در تصویر مشاهده میکنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط شکل برابر با <span>1&frasl;3</span> است.
