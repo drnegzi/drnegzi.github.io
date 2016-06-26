@@ -5,6 +5,7 @@ category: [عمومی]
 tags: [عمومی, Windows 10 tweak]
 date: 2016-03-30 18:49:00 +0330
 published: true
+permalink: /post/associate-files-with-photo-viewer-in-windows-10
 comments: true
 series:
 summary: یکی از مواردی که در اولین تجربه من در کار کردن با Windows 10 عجیب بود، اجبار Microsoft به استفاده از Photos به جای Windows Photo Viewer برای مشاهده فایل‌های تصویری بود. در این پست قصد دارم تا راه حلی برای این مشکل و ایجاد امکان تنظیم کردن Windows Photo Viewer به عنوان نمایش دهنده پیش فرض فایل‌های تصویری ارائه کنم.
