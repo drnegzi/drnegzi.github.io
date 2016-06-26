@@ -33,7 +33,7 @@ favicon: "favico.png"
 
 
 #outputting
-permalink: :title.html
+permalink: /blog/title
 
 # Build settings
 markdown: markright
