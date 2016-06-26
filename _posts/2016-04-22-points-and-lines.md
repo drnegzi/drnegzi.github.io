@@ -184,3 +184,23 @@ float PerpendicularSlope(float slope)
 }
 </pre>
 </div>
+
+فرض کنیم که در حال برنامه نویسی یک بازی هستیم که در آن برای ما زاویه بین راستای برخورد دو جسم مهم است، با اطلاع از این نکته که اگر دو خط بر هم عمود باشند، حاصلضرب شیب آنها برابر با <span>-1</span> است، به راحتی می‌توانیم زمانی که راستای برخورد دو جسم بر هم عمود بوده است را متوجه شویم.
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input:  slope1 – the slope of the first line
+//         slope2 – the slope of our second line
+// output: true if the lines are orthogonal, else false
+
+bool ArePerpendicular(float slope1, float slope2)
+{
+    if(slope1 * slope2 == -1)
+    {
+        return true;
+    }
+    return false;
+}
+</pre>
+</div>
+
+<div class="post-inline-title">محاسبه معادله خط</div>
