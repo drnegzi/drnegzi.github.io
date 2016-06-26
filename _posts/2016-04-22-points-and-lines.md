@@ -204,3 +204,13 @@ bool ArePerpendicular(float slope1, float slope2)
 </div>
 
 <div class="post-inline-title">محاسبه معادله خط</div>
+اگر با دقت به شیب خطوطی که تا الان بدست آوردیم نگاه کنیم، متوجه می‌شویم که اگر برای همه معادلات این خطوط، فرم <span>Ax + By = C</span> را حالت استاندارد در نظر بگیریم، شیب این خطوط برابر با <span>m = -A/B</span> است. 
+
+مثلا در معادله <span>2x + y = 5</span> شیب خط برای مقادیر <span>A = 2</span> و <span>B = 1</span> برابر با <span>m = -A/B = -2/1 = -2</span> است.
+
+با تمام اینها برای خطوط می‌توانیم به دو معادله پرکاربرد زیر برسیم:
+<p><blackquote class="alert">
+معادله شیب-عرض از مبدا:<br>
+<span>y = mx + b</span><br>
+این خط دارای شیب m و عرض از مبدا b است.
+</blackquote></p>
