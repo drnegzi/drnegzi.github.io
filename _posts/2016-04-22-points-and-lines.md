@@ -165,7 +165,7 @@ float SlopeBetweenPoints(Point2d P1, Point2d P2)
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-parallel-lines.png"/>
 شیب هر دو خط برابر با <span>1&frasl;2</span> است،این دو خط را موازی می‌نامیم. در ریاضیات برای خطوط، تعریفی به اسم <span class="font-color-white">زاویه میل</span> داریم. زاویه میل یک خط که محور xها را قطع می‌کند، کوچکترین زواویه‌ای است که اگر اندازه گیری را در خلاف عقربه‌های ساعت از محور x و در حول نقطه تقاطع انجام دهیم، به دست می‌آید. طبق این تعریف، شیب یک خط از مقدار <span>tan</span> این زاویه محاسبه می‌شود. پس می‌توان دو خط موازی را خطوطی در نظر گرفت که زاویه میل‌های آنها با هم برابر است.
 
-<div class"post-inline-title">خطوط عمود</div>
+<div class="post-inline-title">خطوط عمود</div>
 مورد دیگری که درباره وضعیت دو خط نسبت به هم، از روابط بین مقدار شیب این دو خط قابل بررسی است، عمود بودن دو خط بر هم است.
 دو خط عمود بر هم یا متعامد، خطوطی هستند که حاصلضرب شیب آنها در یکدیگر، همواره برابر با <span>-1</span> باشد.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-orthogonal-lines.png"/>
