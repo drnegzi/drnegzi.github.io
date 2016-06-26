@@ -22,5 +22,3 @@ disqus_username: theskn
 fullname: "کیانوش نقوی"
 favicon: "favico.png"
 
-#outputting
-permalink: :posts/:title.html
