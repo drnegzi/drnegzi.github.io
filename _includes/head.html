@@ -1,39 +1,39 @@
 <head> <!-- Start of Head -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title}}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description}}{% endif %}">
-    <meta name="keywords" content="{{ site.keywords }},{% for tag in page.tags %}{% include head_tags.html %}{% endfor %},{% for category in page.categories %}{% include head_categories.html %}{% endfor %}">
-    <meta name="author" content="{{ site.author}}">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.data.title}}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.data.description}}{% endif %}">
+    <meta name="keywords" content="{{ site.data.data.keywords }},{% for tag in page.tags %}{% include head_tags.html %}{% endfor %},{% for category in page.categories %}{% include head_categories.html %}{% endfor %}">
+    <meta name="author" content="{{ site.data.data.author}}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
-    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/{{ site.baseurl }}" />
-    <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://feeds.feedburner.com/{{ site.baseurl }}" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/{{ site.data.data.baseurl }}" />
+    <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://feeds.feedburner.com/{{ site.data.data.baseurl }}" />
 
     
     <!-- jquery -->
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js' ></script>
     
     <!-- stylesheets -->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.data.data.baseurl }}/assets/css/main.css">
 
     <!-- Syntax highlighter -->
     <script type='text/javascript' src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushJScript.js'></script>
     
-    <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/assets/syntaxhighlighter/styles/shCore.css"/>
-    <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/assets/syntaxhighlighter/styles/shThemeRDark.css"/>
-    <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/assets/syntaxhighlighter/styles/shCoreRDark.css"/>
+    <link rel="stylesheet" type="text/css"  href="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/styles/shCore.css"/>
+    <link rel="stylesheet" type="text/css"  href="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/styles/shThemeRDark.css"/>
+    <link rel="stylesheet" type="text/css"  href="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/styles/shCoreRDark.css"/>
     
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shCore.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shBrushCpp.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shBrushCss.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shBrushPhp.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shBrushPlain.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/syntaxhighlighter/scripts/shBrushXml.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shCore.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shBrushCpp.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shBrushCss.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shBrushPhp.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shBrushPlain.js"></script>
+    <script type="text/javascript" src="{{ site.data.data.baseurl }}/assets/syntaxhighlighter/scripts/shBrushXml.js"></script>
     <!-- end of syntax highlighter -->
 
-    <link rel="canonical" href="{{ site.url | urljoin: site.baseurl, page.url }}">
-    <link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
+    <link rel="canonical" href="{{ site.data.data.url | urljoin: site.data.data.baseurl, page.url }}">
+    <link rel="icon" href="{{ site.data.data.baseurl }}/{{ site.data.data.favicon }}">
 
     {% if page.style%}
      <style type="text/css">
@@ -47,6 +47,6 @@
          {{ post.style }}
      </style>
     {% endif %}
-    <meta http-equiv="refresh" content="5; url='{{ site.baseurl }}/'">
+    <meta http-equiv="refresh" content="5; url='{{ site.data.data.baseurl }}/'">
     {% endif %} 
 </head>
