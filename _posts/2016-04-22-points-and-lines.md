@@ -133,7 +133,7 @@ C = A + B;
 پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت میکند مقدار نمو آن به صورت: <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span> و <span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span> محاسبه میشود.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
 تصویر فوق از سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
-همانطور که در تصویر مشاهده میکنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط شکل برابر با <span>&frac13;</span> است.
+همانطور که در تصویر مشاهده میکنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط شکل برابر با <span>1&frasl;3</span> است.
 به یاد داشت باشید که شیب خط مستقل از دو نقطه‌ای است که روی خط انتخاب میکنیم.
 
 <div class="post-inline-title">محاسبه شیب خط در کد</div>
@@ -156,6 +156,31 @@ float SlopeBetweenPoints(float *P1, float *P2)
 float SlopeBetweenPoints(Point2d P1, Point2d P2)
 {
     return (P2.y – P1.y) / (P2.x – P1.x);
+}
+</pre>
+</div>
+
+<div class="post-inline-title">خطوط موازی</div>
+فرض کنید دو خط زیر که حاصل از دو معادله <span>y = (1&frasl;2)x + 1</span> و <span>-3x + 6y = -12</span> را داریم:
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-parallel-lines.png"/>
+شیب هر دو خط برابر با <span>1&frasl;2</span> است،این دو خط را موازی می‌نامیم. در ریاضیات برای خطوط، تعریفی به اسم <span class="font-color-white">زاویه میل</span> داریم. زاویه میل یک خط که محور xها را قطع می‌کند، کوچکترین زواویه‌ای است که اگر اندازه گیری را در خلاف عقربه‌های ساعت از محور x و در حول نقطه تقاطع انجام دهیم، به دست می‌آید. طبق این تعریف، شیب یک خط از مقدار <span>tan</span> این زاویه محاسبه می‌شود. پس می‌توان دو خط موازی را خطوطی در نظر گرفت که زاویه میل‌های آنها با هم برابر است.
+
+<div class"post-inline-title">خطوط عمود</div>
+مورد دیگری که درباره وضعیت دو خط نسبت به هم، از روابط بین مقدار شیب این دو خط قابل بررسی است، عمود بودن دو خط بر هم است.
+دو خط عمود بر هم یا متعامد، خطوطی هستند که حاصلضرب شیب آنها در یکدیگر، همواره برابر با <span>-1</span> باشد.
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-orthogonal-lines.png"/>
+شکل بالا وضعیت دو خط <span>y = (-3&frasl;2)x + 4</span> و <span>y = (2&frasl;3)x + 1</span> را نشان می‌دهد.
+
+<div class="post-inline-title">محاسبه شیب خط عمود در کد</div>
+برای محاسبه شیب خط عمود بر یک خط در کد، با استفاده از شیب حساب شده در قسمت قبلی می‌توانیم از تابع زیر استفاده کنیم:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input:  slope of a line
+// output: slope of the orthogonal line
+
+float PerpendicularSlope(float slope)
+{
+    return –1 / slope;
 }
 </pre>
 </div>
