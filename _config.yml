@@ -33,7 +33,7 @@ favicon: "favico.png"
 
 
 #outputting
-permalink: title
+permalink: /blog/:year/:title.html
 
 # Build settings
 markdown: kramdown
