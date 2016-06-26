@@ -44,7 +44,7 @@ GitHub Pages در کنار این قابلیت‌ها دارای یک [موتو�
 
 حالا تو ویرایگشر متنی GitHub کد زیر رو قرار بدید. فراموش نکنید که اطلاعات مربوط به خودتون رو داخل کد جایگزین کنید.
 <div class="ltr-direction font-family-consolas">
-<pre class="html-script: true">
+<pre class="brush: plain; html-script: true">
 &lt;!DOCTYPE html>
 &lt;html>
   &lt;head>
