@@ -213,7 +213,7 @@ bool ArePerpendicular(float slope1, float slope2)
 <div class="post-inline-title">محاسبه معادله خط</div>
 اگر با دقت به شیب خطوطی که تا الان بدست آوردیم نگاه کنیم، متوجه می‌شویم که اگر برای همه معادلات این خطوط، فرم <span>Ax + By = C</span> را حالت استاندارد در نظر بگیریم، شیب این خطوط برابر با <span>m = -A/B</span> است. 
 
-مثلا در معادله <span>2x + y = 5</span> شیب خط برای مقادیر <span>A = 2</span> و <span>B = 1</span> برابر با <span>m = -A/B = -2/1 = -2</span> است.
+مثلا در معادله <span>۲x + y = ۵</span> شیب خط برای مقادیر <span>A = ۲</span> و <span>B = ۱</span> برابر با <span>m = -A/B = -۲/۱ = -۲</span> است.
 
 با تمام اینها برای خطوط می‌توانیم به دو معادله پرکاربرد زیر برسیم:
 <p><blackquote class="alert">
@@ -223,8 +223,8 @@ bool ArePerpendicular(float slope1, float slope2)
 </blackquote></p>
 <p><blackquote class="alert">
 معادله نقطه-شیب:<br>
-<span>y - y<sub>1</sub> = (x - x<sub>1</sub>)m</span><br>
-این خط از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> و با شیب m می‌گذرد.
+<span>y - y<sub>۱</sub> = (x - x<sub>۱</sub>)m</span><br>
+این خط از نقطه <span>(x<sub>۱</sub>, y<sub>۱</sub>)</span> و با شیب m می‌گذرد.
 </blackquote></p>
 
 بین تمام حالت‌های موجود، معادله شیب-عرض از مبدا، از بقیه پر کاربردتر است و برای ما استفاده از آن در کد، از آنجایی که در این معادله مقدار y برابر با مقدار سایر اعضای معادله است، راحت‌تر است. دقت کنید که در معادله شیب-عرض از مبدا، b بیانگر عرض از مبدا یا عرضی است که در آن خط محور yها را قطع می‌کند.
