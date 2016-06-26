@@ -82,18 +82,18 @@ description: شاید وقتی برای اولین بار به برنامه نو
 /****************************************************************************/
 // I. an array of floats.
 
-float 3dPoint[3];
+float point3d[3];
 /****************************************************************************/
 // II. a structure holding 3 floats.
 
-struct 3dPoint
+struct Point3d
 {
     float x, y, z;
 
     // The overloaded addition operator
-    3dPoint operator+(const 3dPoint &P2) const
+    Point3d operator+(const Point3d &P2) const
     {
-        3dPoint temp = 
+        Point3d temp = 
         {    
             this->x + P2.x,
             this->y + P2.y,
@@ -106,7 +106,7 @@ struct 3dPoint
 /****************************************************************************/
 // Using this structure, adding two points:
 
-3dPoint A, B, C;
+Point3d A, B, C;
 C = A + B;
 </pre>
 </div>
@@ -131,3 +131,31 @@ C = A + B;
 در واقع نمو میزان تغییران خالص مختصات ذره‌ای است که در یک صفحه از یک مکان به مکان دیگری حرکت میکند. این تغییرات با تفریق مختصات نقطه آغاز از نقطه پایان محاسبه میشود. معمولا این تغییرات را با علائم <span class="font-color-white">&Delta;x</span> و <span class="font-color-white">&Delta;y</span> نشان میدهیم. علامت <span>&Delta;</span> یکی از حروف بزرگ الفبای یونانی است که معادل حرف <span>d</span> در زبان انگلیسی است و با توجه به حرف اول کلمه <span>differenece</span> به معنی تفاضل انتخاب شده است.
 
 پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت میکند مقدار نمو آن به صورت: <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span> و <span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span> محاسبه میشود.
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-slope-of-a-line-graph.png"/>
+تصویر فوق از سایت [Math Warehouse](http://www.mathwarehouse.com/algebra/linear_equation/slope-of-a-line.php) است.
+همانطور که در تصویر مشاهده میکنید میزان نمو عمودی یعنی <span>&Delta;y</span> برابر با 1 و میزان نمو طولی یعنی <span>&Delta;</span> برابر با 3 است. همانطور که گفتیم برای محاسبه شیب خط باید مقدار <span>&Delta;y</span> را بر مقدار <span>&Delta;x</span> تقسیم کنیم، پس شیب خط شکل برابر با <span>&frac13;</span> است.
+به یاد داشت باشید که شیب خط مستقل از دو نقطه‌ای است که روی خط انتخاب میکنیم.
+
+<div class="post-inline-title">محاسبه شیب خط در کد</div>
+برای محاسبه شیب خط بین دو نقطه، با توجه به تعریف نقاط در قسمت قبل در کد داریم:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input:  P1 – an array of 2 floats representing point 1
+//         P2 – an array of 2 floats representing point 2
+// output: the slope of a line between 2 given points
+
+float SlopeBetweenPoints(float *P1, float *P2)
+{
+    return (P2[1] – P1[1]) / (P2[0] – P1[0]);
+}
+/****************************************************************************/
+// input:  P1 – an structure holding 2 floats representing point 1
+//         P2 – an structure holding 2 floats representing point 2
+// output: the slope of a line between 2 given points
+
+float SlopeBetweenPoints(Point2d P1, Point2d P2)
+{
+    return (P2.y – P1.y) / (P2.x – P1.x);
+}
+</pre>
+</div>
