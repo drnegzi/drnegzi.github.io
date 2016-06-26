@@ -1,3 +1,8 @@
+# Where things are
+"plugins_dir"       => "_plugins"
+"layouts_dir"       => "_layouts",
+"includes_dir"      => "_includes",
+
 # Site settings
 title: "پیغام خطای 0x12F"
 tagline: "نوشته شده توسط کیانوش نقوی"
@@ -27,7 +32,7 @@ favicon: "favico.png"
 permalink: :posts/:title.html
 
 # Build settings
-markdown: kramdown
+markdown: markright
 kramdown:
     coderay_line_numbers: nil
 encoding: utf-8
