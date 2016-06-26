@@ -33,7 +33,7 @@ favicon: "favico.png"
 
 
 #outputting
-permalink: page.url
+permalink: :year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
