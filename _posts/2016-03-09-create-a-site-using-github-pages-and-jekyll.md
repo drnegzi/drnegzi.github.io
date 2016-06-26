@@ -5,6 +5,7 @@ category: [Jekyll, GitHub Pages, GitHub, آموزشی]
 tags: [آموزشی]
 date: 2016-03-09 04:30:00 +0330
 published: true
+permalink: /post/create-a-site-using-github-pages-and-jekyll
 comments: true
 series:
 summary: این پست با هدف آموزش کوتاه و مختصر چگونگی ساخت یک سایت شخصی با استفاده از GitHub Pages و Jekyll نوشته شده است. قصد داریم این بیت با GitHub Pages و نحوه استفاده از Jekyll بر روی آن آشنا بشیم و سایت خودمون رو با استفاده از این دو ابزار از صفر آماده کنیم.
