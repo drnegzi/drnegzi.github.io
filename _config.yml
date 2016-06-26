@@ -37,26 +37,3 @@ kramdown:
     coderay_line_numbers: nil
 encoding: utf-8
 timezone: Asia/Tehran
-
-paginate: 5
-paginate_path: "/page:num/"
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: post
-      author: "کیانوش نقوی"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "drafts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: post
-      author: "کیانوش نقوی"
-
-collections:
-  projects:
-    output: true
