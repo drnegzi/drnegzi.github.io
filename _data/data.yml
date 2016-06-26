@@ -1,0 +1,23 @@
+# Site settings
+title: "پیغام خطای 0x12F"
+tagline: "نوشته شده توسط کیانوش نقوی"
+author: Kianoosh Naghavi
+email: naghavi.kianoosh@gmail.com
+baseurl: "http://theskn.github.io" # the subpath of your site, e.g. /blog
+url: "http://www.blog.kianooshnaghavi.com" # the base hostname & protocol for your site
+keywords: "علوم کامپیوتر,کامپیوتر,برنامه نویسی,بازیسازی,طراحی بازی,موسیقی"
+copyright: "Commons Attribution 4.0 International"
+robot: "" 
+highlighter: rouge
+description: "وبلاگ شخصی کیانوش نقوی، اینجا محلی برای انتشار ایده‌ها، افکار و تجربیات روزانه‌ام در ارتباط با زمینه‌هایی است که در آنها فعالم"
+
+long_description: "پیغام خطای 0x12F محلی برای انتشار افکار، تجربیات و ایده‌هایم در رابطه به بازیسازی، برنامه نویسی، موسیقی و کارهای گیکی است و امیدوارم که روزی و در جایی این مطالب برای کسی مفید باشند."
+
+about: "سلام من کیانوش نقوی هستم و اینجا محلی است برای انتشار ایده‌ها، افکار و تجربیات روزانه‌ام در ارتباط با زمینه‌هایی که در اونها فعال هستم.
+امیدوارم که روزی مطالبت منتشر شده در اینجا، برای کسی مفید باشد."
+
+twitter_username: kianooshnaghavi
+github_username:  theskn
+disqus_username: theskn
+fullname: "کیانوش نقوی"
+favicon: "favico.png"
