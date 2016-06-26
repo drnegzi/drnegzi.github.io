@@ -130,4 +130,4 @@ C = A + B;
 
 در واقع نمو میزان تغییران خالص مختصات ذره‌ای است که در یک صفحه از یک مکان به مکان دیگری حرکت میکند. این تغییرات با تفریق مختصات نقطه آغاز از نقطه پایان محاسبه میشود. معمولا این تغییرات را با علائم <span class="font-color-white">&Delta;x</span> و <span class="font-color-white">&Delta;y</span> نشان میدهیم. علامت <span>&Delta;</span> یکی از حروف بزرگ الفبای یونانی است که معادل حرف <span>d</span> در زبان انگلیسی است و با توجه به حرف اول کلمه <span>differenece</span> به معنی تفاضل انتخاب شده است.
 
-پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه </span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت میکند مقدار نمو آن به صورت: <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span> و <span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span> محاسبه میشود.
+پس وقتی ذره‌ای از نقطه <span>(x<sub>1</sub>, y<sub>1</sub>)</span> به نقطه <span>(x<sub>2</sub>, y<sub>2</sub>)</span> حرکت میکند مقدار نمو آن به صورت: <span>&Delta;x = x<sub>2</sub> - x<sub>1</sub></span> و <span>&Delta;y = y<sub>2</sub> - y<sub>1</sub></span> محاسبه میشود.
