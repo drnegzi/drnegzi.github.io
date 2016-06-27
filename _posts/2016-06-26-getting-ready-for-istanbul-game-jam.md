@@ -24,7 +24,7 @@ description: "نزدیک به دو روز به رویداد بازی‌سازی 
 دقیقا بعد از نوشتن جمله بالا تصمیم گرفتم تا این کار رو امتحان کنم!
 
 هم اکنون می‌توانید از اینجا همراه من باشید:
-<span class="block-responsive center-block"><iframe src="https://player.twitch.tv/?channel=kianooshn" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/kianooshn?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from kianooshn on www.twitch.tv</a></span>
+<div class="block-responsive center-block"><iframe src="https://player.twitch.tv/?channel=kianooshn" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/kianooshn?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from kianooshn on www.twitch.tv</a></div>
 
 <div class="ltr-direction">
 <ul class="top-level-list list-style-type-disc">
