@@ -54,7 +54,6 @@ description: "نزدیک به دو روز به رویداد بازی‌سازی 
   <li class="margin-bottom-16px"><a href="https://aarkipel.itch.io/and-the-mooncats">..and the mooncats</a> - Ludum Dare 34 // NOTE: personal recommendation</li>
   <li class="margin-bottom-16px"><a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=8471">Flower Power</a> - Ludum Dare 34</li>
   <li class="margin-bottom-16px"><a href="https://juicybeast.itch.io/right-click-to-necromance">Right Click to Necromance</a> - Ludum Dare 34 // NOTE: personal recommendation</li>
-a> - Ludum Dare 34</li>
   <li class="margin-bottom-16px"><a href="sort the co">Sort the Cort</a> // NOTE: personal recommendation</li>  
   <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2015/games/tokyo-1923">Tokyo 1923</a> - Global Game Jame 2015 // NOTE: personal recommendation</li>
   </ul>
