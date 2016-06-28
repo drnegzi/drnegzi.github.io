@@ -24,10 +24,9 @@ description: "نزدیک به دو روز به رویداد بازی‌سازی 
 دقیقا بعد از نوشتن جمله بالا تصمیم گرفتم تا این کار رو امتحان کنم!
 
 هم اکنون می‌توانید از اینجا همراه من باشید:
-<div class="block-responsive center-block">
 <iframe src="https://player.twitch.tv/?channel=kianooshn" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/kianooshn?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from kianooshn on www.twitch.tv</a><
-/div>
 
+و در نهایت در مدتی که با هم بودیم، بازی‌های زیر رو با هم بررسی کردیم:
 <div class="ltr-direction">
 <ul class="top-level-list list-style-type-disc">
   <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2016/games/born-fire">Born in Fire</a> - Global Game Jam 2016</li>
@@ -44,9 +43,21 @@ description: "نزدیک به دو روز به رویداد بازی‌سازی 
   <li class="margin-bottom-16px"><a href="http://gamejolt.com/games/infinite-monkey-autocorrect/113685">Infinite Monkey Autocorrect</a> - Ludum Dare 34</li>
   <li class="margin-bottom-16px"><a href="https://metalkarp.itch.io/itsraininginside">It's Raining Inside</a></li>
   <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2016/games/just-another-dungeon">Just Another: Dungeon</a> - Global Game Jame 2016 // NOTE: just an other crap!</li>
-   <li class="margin-bottom-16px"><a href="">HamsterX</a> // NOTE: link missing</li>
+  <li class="margin-bottom-16px"><a href="">HamsterX</a> // NOTE: link missing</li>
   <li class="margin-bottom-16px"><a href="https://tayl1r.itch.io/left-leaning">Left-Leaning</a> - Ludum Dare 34</li>
+  <li class="margin-bottom-16px"><a href="https://sweetheartsquad.itch.io/llammigration">Llammigration</a></li>
+  <li class="margin-bottom-16px"><a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30386">Major Tom</a> - Ludum Dare 34</li>
+  <li class="margin-bottom-16px"><a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30386">Major Tom</a> - Ludum Dare 34</li>
+   <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2015/games/mango-blue">Mango Blue</a> - Global Game Jame 2015 // NOTE: personal recommendation</li> 
+  <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2015/games/meditation">Meditation</a> - Global Game Jame 2015</li>
+  <li class="margin-bottom-16px"><a href="https://cremagames.itch.io/mobsferatu">Mobsferatu</a> - Ludum Dare 34 // NOTE: personal recommendation</li>
+  <li class="margin-bottom-16px"><a href="https://aarkipel.itch.io/and-the-mooncats">..and the mooncats</a> - Ludum Dare 34 // NOTE: personal recommendation</li>
+  <li class="margin-bottom-16px"><a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=8471">Flower Power</a> - Ludum Dare 34</li>
+  <li class="margin-bottom-16px"><a href="https://juicybeast.itch.io/right-click-to-necromance">Right Click to Necromance</a> - Ludum Dare 34 // NOTE: personal recommendation</li>
+a> - Ludum Dare 34</li>
+  <li class="margin-bottom-16px"><a href="sort the co">Sort the Cort</a> // NOTE: personal recommendation</li>  
+  <li class="margin-bottom-16px"><a href="http://globalgamejam.org/2015/games/tokyo-1923">Tokyo 1923</a> - Global Game Jame 2015 // NOTE: personal recommendation</li>
   </ul>
   </div>
   
-  لیست به روز رسانی خواهد شد.
+امیدوارم که تو سه روز مسابقه بتونیم بهترین عملکردمون رو داشته باشیم، ضمن اینکه هر وقت که فرصت کنم، حتما از مراحل و روند ساخت بازیمون، براتون می‌نویسم.
