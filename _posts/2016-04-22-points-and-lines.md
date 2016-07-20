@@ -236,4 +236,4 @@ bool ArePerpendicular(float slope1, float slope2)
 <div class="post-inline-title">نکات تکمیلی شیب خطوط</div>
 شیب خطوط می‌تواند اطلاعات مفید دیگری را هم در اختیار ما بگذارد، مثلا خطوطی که دارای <span class="font-color-white">شیب مثبت</span> هستند، خطوطی هستند که بر روی دستگاه مختصات و در حرکت از سمت چپ به سمت راست، دارای <span class="font-color-white">افزایش ارتقاع</span> هستند. به همین ترتیب خطوط دارای <span class="font-color-white">شیب منفی</span> در حرکت از سمت چپ به سمت راست صفحه مختصات با <span class="font-color-white">کاهش ارتفاع</span> همراه هستند. خطوطی که دارای <span class="font-color-white">شیب صفر</span> هستند، خطوط افقی هستند و خطوطی که دارای <span class="font-color-white">شیب تعریف</span> نشده هستند، خطوط عمودی هستند.
 
-<b>&gt;</b> به روز رسانی
+<spna class="font-family-consolas">&gt;</span> به روز رسانی
