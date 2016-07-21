@@ -236,4 +236,8 @@ bool ArePerpendicular(float slope1, float slope2)
 <div class="post-inline-title">نکات تکمیلی شیب خطوط</div>
 شیب خطوط می‌تواند اطلاعات مفید دیگری را هم در اختیار ما بگذارد، مثلا خطوطی که دارای <span class="font-color-white">شیب مثبت</span> هستند، خطوطی هستند که بر روی دستگاه مختصات و در حرکت از سمت چپ به سمت راست، دارای <span class="font-color-white">افزایش ارتقاع</span> هستند. به همین ترتیب خطوط دارای <span class="font-color-white">شیب منفی</span> در حرکت از سمت چپ به سمت راست صفحه مختصات با <span class="font-color-white">کاهش ارتفاع</span> همراه هستند. خطوطی که دارای <span class="font-color-white">شیب صفر</span> هستند، خطوط افقی هستند و خطوطی که دارای <span class="font-color-white">شیب تعریف</span> نشده هستند، خطوط عمودی هستند.
 
-<span class="font-family-consolas">&gt;</span> به روز رسانی
+<span class="font-family-consolas font-weight-bolder">&gt;</span> به روز رسانی
+
+<div class="post-inline-title">کاربردها در تشخیص برخورد</div>
+یکی از حالاتی که در برنامه نویسی بازی‌ها برای ما پیش می‌آید تشخیص زمان یا حالتی است که در آن دو خط با هم برخورد داشته‌اند.
+این خطوط می‌توانند مشخص کننده وجوه یک جسم، سطح زمین و حتی مسیر حرکت یک شی باشند و معمولا ما قصد نوشتن کدی برای شرایطی که در آن برخورد رخ می‌دهد داریم.
