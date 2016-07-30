@@ -248,3 +248,4 @@ bool ArePerpendicular(float slope1, float slope2)
 
 شکل زیر وضیعت دو خط <span>y = ۳x + ۴</span> و <span>y = ۲/۳x - ۲/۳</span> را نشان می‌دهد.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-intersecting.png"/>
+طبق شکل، می‌بینیم که نقطه <span>(۲-, ۲-)</span> در هر دو معادله صدق می‌کند، پس این نقطه تقاطع دو معادله است. در ضمن تقاوت شیب دو خط در این مثال را در نظر داشته باشید.
