@@ -247,4 +247,4 @@ bool ArePerpendicular(float slope1, float slope2)
 ما به هنگام حل یک دستگاه معادلات خطی به دنبال، یافتن محل برخورد دو خط هستیم، در واقع مجموعه جواب ما در این مسائل، تمامی نقاطی را که در هر دو معادله صدق می‌کنند در بر می‌گیرد.
 
 شکل زیر وضیعت دو خط <span>y = ۳x + ۴</span> و <span>y = ۲/۳x - ۲/۳</span> را نشان می‌دهد.
-<class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-intersecting.png"/>
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-intersecting.png"/>
