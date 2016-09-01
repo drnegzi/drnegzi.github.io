@@ -34,7 +34,7 @@ int main()
 }
 </pre>
 </div>
-
+و یا
 <span class="number-box">۲</span>
 
 
