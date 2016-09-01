@@ -20,7 +20,7 @@ void main()
 </pre>
 </div>
 واقعا دیگه حتی برام مقدور نیست که کوچکترین خیال پردازی یا تصوری در مورد میزان آشنایی این همکارم حتی با پیش پا افتاده‌ترین زبان‌های برنامه نویسی داشته باشم.
-اما موضوع اساسیی که اینجا مطرح می‌شود و ممکنه برای خیلی‌های دیگه هم مورد سوال یا سردرگمی باشه، اینکه، کدوم یکی از برنامه‌های زیر درست هستند؟ اولی یا دومی؟
+اما موضوع اساسیی که اینجا مطرح می‌شود و ممکنه برای خیلی‌های دیگه هم مورد سوال یا سردرگمی باشه، اینکه، کدوم یکی از برنامه‌های زیر درست هستند؟ اولی یا دومی و یا حتی سومی؟
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
 int main()
@@ -29,6 +29,16 @@ int main()
 }
 </pre>
 </div>
+و یا
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+int main(
+{
+   // No return statement...
+}
+</pre>
+</div>
+و
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
 void main(
@@ -37,3 +47,5 @@ void main(
 }
 </pre>
 </div>
+اولین سوال پیش آمده در اینجا در مورد تفاوت بین <span class="highlight-text">void main()</span> و <span class="highlight-text">int main()</span> هست
+
