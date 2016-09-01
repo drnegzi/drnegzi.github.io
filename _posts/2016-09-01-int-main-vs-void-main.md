@@ -23,8 +23,6 @@ void main()
 اما موضوع اساسیی که اینجا مطرح می‌شود و ممکنه برای خیلی‌های دیگه هم مورد سوال یا سردرگمی باشه، اینکه، کدوم یکی از برنامه‌های زیر درست هستند؟ اولی یا دومی؟
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
-#include <iostream>
-
 int main()
 {
    return 0;
@@ -33,30 +31,6 @@ int main()
 </div>
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
-void main()
-</pre>
-</div>
-<div class="ltr-direction font-family-consolas">
-<pre class="brush: cpp">
-#include <iostream>
-
-int main()
-{
-   return 0;
-}
-</pre>
-</div>
-lksdlfjksdjfksdjf
-lsjdfklsfjsaldf
-lsjdfkjaskfjklasdf
-lajsdlfsadkflsakf
-
-و یا
-
-<div class="ltr-direction font-family-consolas">
-<pre class="brush: cpp">
-#include <iostream>
-
 void main(
 {
    // No return statement...
