@@ -47,5 +47,7 @@ void main(
 }
 </pre>
 </div>
-اولین سوال پیش آمده در اینجا در مورد تفاوت بین <span class="highlight-text">void main()</span> و <span class="highlight-text">int main()</span> هست
+قطعا اولین سوالی که مطرح میشه مربوط به تفاوت بین <span class="highlight-text">()int main</span> و <span class="highlight-text">()void main</span> میشه!
+
+جواب خیلی ساده است! اگر دم دست من باشید، استفاده از یکی از این دو، به قیمت جونتون تموم میشه.
 
