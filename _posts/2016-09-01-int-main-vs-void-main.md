@@ -32,7 +32,7 @@ int main()
 }
 </pre>
 </div>
-
+</br>
 و یا
 
 <div class="ltr-direction font-family-consolas">
@@ -45,5 +45,3 @@ void main(
 }
 </pre>
 </div>
-
-
