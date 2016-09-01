@@ -21,7 +21,9 @@ void main()
 </div>
 واقعا دیگه حتی برام مقدور نیست که کوچکترین خیال پردازی یا تصوری در مورد میزان آشنایی این همکارم حتی با پیش پا افتاده‌ترین زبان‌های برنامه نویسی داشته باشم.
 اما موضوع اساسیی که اینجا مطرح می‌شود و ممکنه برای خیلی‌های دیگه هم مورد سوال یا سردرگمی باشه، اینکه، کدوم یکی از برنامه‌های زیر درست هستند؟ اولی یا دومی؟
+
 <span class="number-box">۱</span>
+
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
 #include <iostream>
@@ -32,7 +34,9 @@ int main()
 }
 </pre>
 </div>
+
 <span class="number-box">۲</span>
+
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
 #include <iostream>
