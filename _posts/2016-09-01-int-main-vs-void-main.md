@@ -37,13 +37,4 @@ int main()
 
 <span class="number-box">۲</span>
 
-<div class="ltr-direction font-family-consolas">
-<pre class="brush: cpp">
-#include <iostream>
 
-int main(
-{
-   // No return statement...
-}
-</pre>
-</div>
