@@ -32,7 +32,9 @@ int main()
 }
 </pre>
 </div>
+
 و یا
+
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
 #include <iostream>
