@@ -23,7 +23,12 @@ void main()
 اما موضوع اساسیی که اینجا مطرح می‌شود و ممکنه برای خیلی‌های دیگه هم مورد سوال یا سردرگمی باشه، اینکه، کدوم یکی از برنامه‌های زیر درست هستند؟ اولی یا دومی؟
 <div class="ltr-direction font-family-consolas">
 <pre class="brush: cpp">
-void main()
+#include <iostream>
+
+int main()
+{
+   return 0;
+}
 </pre>
 </div>
 <div class="ltr-direction font-family-consolas">
