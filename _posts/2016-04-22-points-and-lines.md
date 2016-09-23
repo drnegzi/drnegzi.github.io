@@ -256,3 +256,10 @@ bool ArePerpendicular(float slope1, float slope2)
 
 و در پایان دو خط <span>۴ = y + x</span> و <span>۴ = y + x-</span> هم نسبت به هم وضعیتی مانند شکل زیر دارند.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-parallel.png"/>
+وضعیت این دو خط نسبت به هم، <span class="font-color-white">موازی</span> است. شیب این دو خط هم نسبت به هم یکسان است، ولی علامت متغیر y در آنها با هم متفاوت است.
+
+پس به طور کلی یک دستگاه معادلات خطی در صفحه، می‌تواند دارای یکی از سه حالات زیر باشد:
+<span class="number-box">۱</span>دقیقا دارای یک جواب، در صورتی که شیب دو خط با هم برابر نباشد.
+<span class="number-box">۲</span>دارای بی‌نهایت جواب، در صورتی که دو خط دارای شیب و علامت y دو خط با هم یکسان باشد.
+<span class="number-box">۳</span>بدون نقطه مشترک، در صورتی که دو خط دارای شیب یکسان باشند ولی علامت y آنها با هم یکسان نباشد.
+
