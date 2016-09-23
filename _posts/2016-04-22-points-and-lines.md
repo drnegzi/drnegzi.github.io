@@ -252,4 +252,7 @@ bool ArePerpendicular(float slope1, float slope2)
 
 شکل زیر نمایش دهنده وضعیت دو خط <span>۶ = ۶y + ۳y-</span> و <span>۲ = ۲ِy + x-</span> را نشان می‌دهد.
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-coincide.png"/>
-طبق شکل مشخص است که این بار دو خط نه تنها در یک نقطه، بلکه در مجوعه بی‌پایانی از نقاط با هم اشتراک دارند، به این دو خط، دو خط <span class="font-color-white">منطبق</span> می‌گوییم.
+طبق شکل مشخص است که این بار دو خط نه تنها در یک نقطه، بلکه در مجوعه بی‌پایانی از نقاط با هم اشتراک دارند، به این دو خط، دو خط <span class="font-color-white">منطبق</span> می‌گوییم. در نظر داشته باشید که شیب این دو خط با هم برابر است.
+
+و در پایان دو خط <span>۴ = y + x</span> و <span>۴ = y + x-</span> هم نسبت به هم وضعیتی مانند شکل زیر دارند.
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-two-lines-parallel.png"/>
