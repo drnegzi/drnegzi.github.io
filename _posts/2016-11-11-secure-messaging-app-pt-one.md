@@ -27,6 +27,18 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <li class="sub-level-list-right list-style-type-circle">سریع بودن</li>
 <li class="sub-level-list-right list-style-type-circle">Multi platform</li>
 <li class="sub-level-list-right list-style-type-circle">open source</li>
+</ul>
 
-نکته دوم همینحاست! open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار نمی‌کنه!
+نکته دوم همینجاست! open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار نمی‌کنه!
 
+ویژگی‌های اصلی و مورد نیاز یک پیام رسان تا جز پیام رسان‌های خوب و امن قرار بگیره رو در مطلبی جداگانه بررسی خواهیم کرد.
+
+اما قبل از هر چیزی باید نیازهای خودمون برای استفاده از یک نرم افزار پیام رسان رو بشناسیم؛ و این نیازها هم فقط با پاسخ دادن به سوالات زیر مشخص می‌شن:
+<ul class="top-level-list list-style-type-disc">
+<li class="sub-level-list-right list-style-type-circle">چرا من به یک پیام رسان نیاز دارم؟</li>
+<li class="sub-level-list-right list-style-type-circle">قصد ارتباط برقرار کردن با چه فرد یا افرادی را دارم؟</li>
+<li class="sub-level-list-right list-style-type-circle">افرادی که ممکنه نسبت به این ارتباط دشمنی داشته باشند، چه کسانی هستند؟</li>
+<li class="sub-level-list-right list-style-type-circle">پیامدهای مورد سرقت قرار گرفتن یا انتشار اطلاعات مربوط به من و این ارتباطات چیست؟</li>
+<li class="sub-level-list-right list-style-type-circle">آیا نیازی به همیشه در دسترس بودن پیام رسان مورد استفاده وجود دارد؟</li>
+<li class="sub-level-list-right list-style-type-circle">برای چه بازه زمانی قصد استفاده از این پیام رسان را داریم؟</li>
+</ul>
