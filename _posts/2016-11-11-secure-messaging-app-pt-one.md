@@ -23,10 +23,10 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 لیست ویژگی‌های بدی که برای خوب دونستن یک پیام رسان در نظر می‌گیریم بیشتر شامل موارد زیر میشه
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-bottom-16px">وابسته نبودن به Facebook و Google</li>
-<li class="margin-bottom-16px">سریع بودن</li>
-<li class="margin-bottom-16px">Multi platform</li>
-<li class="margin-bottom-16px">open source</li>
+<li class="sub-level-list-right list-style-type-circle">وابسته نبودن به Facebook و Google</li>
+<li class="sub-level-list-right list-style-type-circle">سریع بودن</li>
+<li class="sub-level-list-right list-style-type-circle">Multi platform</li>
+<li class="sub-level-list-right list-style-type-circle">open source</li>
 
 نکته دوم همینحاست! open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار نمی‌کنه!
 
