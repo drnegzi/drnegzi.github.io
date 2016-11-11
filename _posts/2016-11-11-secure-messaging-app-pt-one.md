@@ -28,7 +28,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <li class="sub-level-list-right list-style-type-circle">Multi platform</li>
 <li class="sub-level-list-right list-style-type-circle">open source</li>
 </ul>
-</br>
+<br>
 نکته دوم همینجاست! open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار نمی‌کنه!
 
 ویژگی‌های اصلی و مورد نیاز یک پیام رسان تا جز پیام رسان‌های خوب و امن قرار بگیره رو در مطلبی جداگانه بررسی خواهیم کرد.
@@ -42,7 +42,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <li class="sub-level-list-right list-style-type-circle">آیا نیازی به همیشه در دسترس بودن پیام رسان مورد استفاده وجود دارد؟</li>
 <li class="sub-level-list-right list-style-type-circle">برای چه بازه زمانی قصد استفاده از این پیام رسان را داریم؟</li>
 </ul>
-</br>
+<br>
 در ادامه بد نیست تا مثال‌های زیر رو هم در نظر داشته باشیم:
 <span class="number-box">۱</span>
 <b>کارمندان یک شرکت با پروژه‌های مهم و محرمانه</b>
