@@ -21,7 +21,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 اما، متاسفانه، هر دو نکته ویژگی‌های خیلی بدی برای انتخاب کردن یک پیام رسان امنه! <span class="font-color-white">اول از همه اینکه یک پیام رسان امن، <span class="highlight-text">باید</span> مستقل از Facebook و Google باشه.</span>
 
-لیست ویژگی‌های بدی که برای خوب دونستن یک پیام رسان در نظر می‌گیریم بیشتر شامل موارد زیر میشه
+لیست ویژگی‌هایی که به اشتباه، برای خوب دونستن یک پیام رسان در نظر می‌گیریم بیشتر شامل موارد زیر میشه
 <ul class="top-level-list list-style-type-disc">
 <li class="sub-level-list-right list-style-type-circle">وابسته نبودن به Facebook و Google</li>
 <li class="sub-level-list-right list-style-type-circle">سریع بودن</li>
@@ -29,7 +29,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <li class="sub-level-list-right list-style-type-circle">open source</li>
 </ul>
 <br>
-نکته دوم همینجاست! open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار نمی‌کنه!
+و نکته دوم، دقیقا همینجاست! <span class="font-color-white">open source بودن یک نرم افزار الزاما کمکی به امنیت اون نرم افزار <span class="highlight-text">نمی‌کنه</span>!</span>
 
 ویژگی‌های اصلی و مورد نیاز یک پیام رسان تا جز پیام رسان‌های خوب و امن قرار بگیره رو در مطلبی جداگانه بررسی خواهیم کرد.
 
