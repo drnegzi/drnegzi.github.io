@@ -293,3 +293,15 @@ bool ArePerpendicular(float slope1, float slope2)
 <li class="margin-right-25px">9x + 6y = 30</li>
 <li class="margin-right-25px">8x + 6y = 12</li>
 </ul>
+قدم بعدی ترکیب کردن این دو معادله با هم و تبدیل آنها به یک معادله است. برای انجام کار می‌توان یک معادله از معادله دیگر کم کرد یا دو معادله را با یکدیگر جمع کرد. برای نمونه، در مثال بالا، معادله دوم را از معادله اول کم می‌کنیم و داریم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">9x + 6y = 30</li>
+<li class="margin-right-25px">-(8x + 6y = 12)</li>
+<li class="margin-right-25px">x + 0y = 18</li>
+<li class="margin-right-25px">x = 18</li>
+</ul>
+معادله به دست آمده، ترکیب خطی دو معادله نامیده می‌شود، حال از معادله به دست آمده می‌دانیم که مقدار x در جواب نهایی، بابر با ۱۸ است. حالا می‌توانیم با جایگذاری این مقدار در یکی از معادلات اولیه، مقدار متغییر دیگر را بدست آوریم. پس داریم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">3(18) + 2y = 10</li>
+<li class="margin-right-25px">y = -22</li>
+</ul>
