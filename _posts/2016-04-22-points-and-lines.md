@@ -305,3 +305,16 @@ bool ArePerpendicular(float slope1, float slope2)
 <li class="margin-right-25px">3(18) + 2y = 10</li>
 <li class="margin-right-25px">y = -22</li>
 </ul>
+پس جواب این دستگاه معادلات برابر با (۱۸، ۲۲) است و این نقطهُ محل برخورد دو معادله خط ما را نشان می‌دهد.
+
+<span class="number-box">۲</span>جایگذاری: جایگذاری روش دیگری است که می‌تواند در حل دستگاه‌ معادلات ما را کمک کند، باز هم در هر مرحله فقط قادر به محاسبه جواب یکی از متغیرها هستیم. برای استفاده از جایگذاری، ابتدا باید یکی از معادلات را بر حسب یکی از متغیرها حل کنیم، و سپس، جواب حاصل را به عنوان مقدار آن متغیر در سایر معادلات جایگذاری کنیم.
+
+فرض کنید که دو معادله زیر را داریم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">x + 2y = 5</li>
+<li class="margin-right-25px">3x -2y = -1</li>
+</ul>
+معادله اول را بر حسب x بدست می‌آوریم و داریم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">x = -2 + 5</li>
+</ul>
