@@ -270,7 +270,7 @@ bool ArePerpendicular(float slope1, float slope2)
 
 راه حل:
 
-ابتدا معادله هر دو خط را به فرم <span class=font-color-white">شیب-عرض از مبدا</span> در می‌آوریم.
+ابتدا معادله هر دو خط را به فرم <span class="font-color-white">شیب-عرض از مبدا</span> در می‌آوریم.
 <ul class="top-level-list list-style-type-disc">
 <li class="margin-right-25px">-x + 2y = -2 -> y = 1/2x - 1</li>
 <li class="margin-right-25px">3x - 6y = -6 -> y = 1/2x + 1</li>
