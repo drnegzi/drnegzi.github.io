@@ -273,8 +273,8 @@ bool ArePerpendicular(float slope1, float slope2)
 
 ابتدا معادله هر دو خط را به فرم <span class="font-color-white">شیب-عرض از مبدا</span> در می‌آوریم.
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">-x + 2y = -2 -> y = 1/2x - 1</li>
-<li class="margin-right-25px">3x - 6y = -6 -> y = 1/2x + 1</li>
+<li class="margin-right-25px">x + ۲y = -2 -> y = ۱/۲x - ۱-</li>
+<li class="margin-right-25px">۳x - ۶y = -۶ -> y = ۱/۲x + ۱</li>
 </ul>
 مشهود است که شیب دو خط با هم مساوی و برابر مقدار 1/2 است. پس به سراغ عرض از مبداها می‌رویم، عرض از مبدا معادله حرکت توپ برار با 1- و عرض از مبدا معادله محل قرارگیری دیوار برابر با 1+ است، پس دستگاه معادله این دو خط دارای جواب نیست و دو خط با هم برابرند، پس توپ هیچگاه با دیوار برخورد نخواد کرد.
 
