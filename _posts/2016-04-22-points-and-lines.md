@@ -316,6 +316,58 @@ bool ArePerpendicular(float slope1, float slope2)
 </ul>
 معادله اول را بر حسب x بدست می‌آوریم و داریم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">x = -2 + 5</li>
+<li class="margin-right-25px">x = -2y + 5</li>
 </ul>
-dfd
+حال با جایگذاری مقدار بدست آمده برای x در معادله دوم داریم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">3(-2y +5) -2y = -1</li>
+<li class="margin-right-25px">-6y + 15 -2y = -1</li>
+<li class="margin-right-25px">-8y = -16</li>
+<li class="margin-right-25px">y = 2</li>
+</ul>
+حال با به دست آمدن مقدار y و جایگذاری مقدار آن در معادله اولیه، می‌توانیم مقدار x را پیدا کنیم:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">x = -2(2) + 5</li>
+<li class="margin-right-25px">x = 1</li>
+</ul>
+پس جواب معادله مورد نظر نقطه (1، 2) است.
+
+هر دو روش مورد بررسی قرار گرفته، برای حل دستگاه‌های خطی دو جمله‌ایی که دقیقا دارای یک جواب هستند، می‌توانند مورد استفاده قرار بگیرند. هر چند در مواقعی که ضریب یکی از دو متغیر برابر با یک است، حل دستگاه به روش جایگذاری ساده‌تر است و در حالت کلی، انتخاب روش درست برای حل دستگاه می‌تواند باعث صرفه جویی در زمان حل مساله شود.
+
+ظاهرا حالا زمان مناسبی برای این خواهد بود که در کد هم به تعریف خطوط بپردازیم و با استفاده از روش‌های توضیح داده شده، امکان برخورد یا محل برخورد دو خط را بررسی کنیم.
+
+طبق مواردی که تا اینجا بررسی کردیم، می‌دانیم که معادله یک خط و تمام نقاط روی آن را می‌توان به از فرم زیر بدست آورد:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">y - y1 = m(x - x1)</li>
+</ul>
+اگر در معادله بالا m را برابر با شیب خط در نظر بگیریم و نقطه (x1، y1) را هر نقطه دلخواهی روی خط لحاظ کنیم و معادله‌های دو خط متفاوت را به شکل زیر بازنویسی کنیم، خواهیم داشت:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">y = m1(x - x1) + y1</li>
+<li class="margin-right-25px">y = m2(x - x2) + y2</li>
+</ul>
+با برابر قرار دادن دو معادله بالا و حل معادله جدید برای x خواهیم داشت:
+<ul class="top-level-list list-style-type-disc">
+<li class="margin-right-25px">x = (m1x1 - m2x2 + y2 - y2)/(m1 - m2)</li>
+</ul>
+حالا تابعی را معرفی می‌کنیم با گرفتن دو خط به عنوان ورودی، نقطه برخورد این دو خط با یکدیگر را محاسبه می‌کند، اما قبل از استفاده از این تابع لازم است تا مطمئن شویم که دو خط با هم موازی نیستند:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+//input: L1Point - a 2D point along our first line
+//       L1Slope - the slope of our first line
+//       L2Point - a 2D point along our second line
+//       L2Slope - the slope of our second line
+//output: an array of float holding a point
+
+float *lineIntersect(float *L1Point, float L1Slope,
+                     float *L2Point, float L2Slope)
+{
+    float temp[2] = {0, 0};
+    temp[0] = ((L1Slope * L1Point[0]) – (L2Slope * L2Point[0]) +
+               L2Point[1] – L1Point[1]) / (L1Slope – L2Slope);
+
+    temp[1] = L1Slope(temp[0] – L1Point[0]) + L1Point[1];
+
+    return temp;
+}
+</pre>
+</div>
