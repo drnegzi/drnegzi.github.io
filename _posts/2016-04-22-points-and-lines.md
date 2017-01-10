@@ -365,7 +365,7 @@ float *lineIntersect(float *L1Point, float L1Slope,
     temp[0] = ((L1Slope * L1Point[0]) – (L2Slope * L2Point[0]) +
                L2Point[1] – L1Point[1]) / (L1Slope – L2Slope);
 
-    temp[1] = L1Slope(temp[0] – L1Point[0]) + L1Point[1];
+    temp[1] = L1Slope * temp[0] – L1Slope * L1Point[0]) + L1Point[1];
 
     return temp;
 }
