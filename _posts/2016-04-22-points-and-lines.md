@@ -301,40 +301,43 @@ bool ArePerpendicular(float slope1, float slope2)
 <ul class="top-level-list list-style-type-disc">
 <li class="margin-right-25px">۹x + ۶y = ۳۰</li>
 <li class="margin-right-25px">(۸x + ۶y = ۱۲)-</li>
-<li class="margin-right-25px">x + -y = ۱۸</li>
+<li class="margin-right-25px">x + ۰y = ۱۸</li>
 <li class="margin-right-25px">x = ۱۸</li>
 </ul>
+<br>
 معادله به دست آمده، ترکیب خطی دو معادله نامیده می‌شود، حال از معادله به دست آمده می‌دانیم که مقدار x در جواب نهایی، بابر با ۱۸ است. حالا می‌توانیم با جایگذاری این مقدار در یکی از معادلات اولیه، مقدار متغییر دیگر را بدست آوریم. پس داریم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">۳(۱۸) + ۲y = ۱۰</li>
+<li class="margin-right-25px">۵۴ + ۲y = ۱۰</li>
 <li class="margin-right-25px">y = -۲۲</li>
 </ul>
+<br>
 پس جواب این دستگاه معادلات برابر با (۱۸، ۲۲) است و این نقطهُ محل برخورد دو معادله خط ما را نشان می‌دهد.
 
 <span class="number-box">۲</span>جایگذاری: جایگذاری روش دیگری است که می‌تواند در حل دستگاه‌ معادلات ما را کمک کند، باز هم در هر مرحله فقط قادر به محاسبه جواب یکی از متغیرها هستیم. برای استفاده از جایگذاری، ابتدا باید یکی از معادلات را بر حسب یکی از متغیرها حل کنیم، و سپس، جواب حاصل را به عنوان مقدار آن متغیر در سایر معادلات جایگذاری کنیم.
 
 فرض کنید که دو معادله زیر را داریم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">x + 2y = 5</li>
-<li class="margin-right-25px">3x -2y = -1</li>
+<li class="margin-right-25px">x + ۲y = ۵</li>
+<li class="margin-right-25px">۳x -۲y = -۱</li>
 </ul>
+<br>
 معادله اول را بر حسب x بدست می‌آوریم و داریم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">x = -2y + 5</li>
+<li class="margin-right-25px">x = -۲y + ۵</li>
 </ul>
+<br>
 حال با جایگذاری مقدار بدست آمده برای x در معادله دوم داریم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">3(-2y +5) -2y = -1</li>
-<li class="margin-right-25px">-6y + 15 -2y = -1</li>
-<li class="margin-right-25px">-8y = -16</li>
-<li class="margin-right-25px">y = 2</li>
+<li class="margin-right-25px">۶y + ۱۵ -۲y = -۱-</li>
+<li class="margin-right-25px">۸y = -۱۶-</li>
+<li class="margin-right-25px">y = ۲</li>
 </ul>
 حال با به دست آمدن مقدار y و جایگذاری مقدار آن در معادله اولیه، می‌توانیم مقدار x را پیدا کنیم:
 <ul class="top-level-list list-style-type-disc">
-<li class="margin-right-25px">x = -2(2) + 5</li>
-<li class="margin-right-25px">x = 1</li>
+<li class="margin-right-25px">x = -۲(۲) + ۵</li>
+<li class="margin-right-25px">x = ۱</li>
 </ul>
-پس جواب معادله مورد نظر نقطه (1، 2) است.
+پس جواب معادله مورد نظر نقطه (۲ ،۱) است.
 
 هر دو روش مورد بررسی قرار گرفته، برای حل دستگاه‌های خطی دو جمله‌ایی که دقیقا دارای یک جواب هستند، می‌توانند مورد استفاده قرار بگیرند. هر چند در مواقعی که ضریب یکی از دو متغیر برابر با یک است، حل دستگاه به روش جایگذاری ساده‌تر است و در حالت کلی، انتخاب روش درست برای حل دستگاه می‌تواند باعث صرفه جویی در زمان حل مساله شود.
 
