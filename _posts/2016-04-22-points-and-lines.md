@@ -370,14 +370,14 @@ bool ArePerpendicular(float slope1, float slope2)
 //       L2Slope - the slope of our second line
 //output: an array of float holding a point
 
-float *lineIntersect(float *L1Point, float L1Slope,
-                     float *L2Point, float L2Slope)
+float *LineIntersect(Point2d L1Point, float L1Slope,
+    				 Point2d L2Point, float L2Slope)
 {
-    float temp[2] = {0, 0};
-    temp[0] = ((L1Slope * L1Point[0]) – (L2Slope * L2Point[0]) +
-               L2Point[1] – L1Point[1]) / (L1Slope – L2Slope);
+    float temp[2] = { 0, 0 };
+    temp[0] = ((L1Slope * L1Point.x) - (L2Slope * L2Point.x) +
+        		L2Point.y - L1Point.y) / (L1Slope - L2Slope);
 
-    temp[1] = L1Slope * temp[0] – L1Slope * L1Point[0] + L1Point[1];
+    temp[1] = L1Slope * temp[0] - L1Slope *L1Point.x + L1Point.y;
 
     return temp;
 }
