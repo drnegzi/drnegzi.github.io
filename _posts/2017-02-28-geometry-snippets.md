@@ -23,8 +23,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <p><blackquote class="alert">
 قضیه فیثاغورث:<br>
 <img class="formula-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-the-pythaforean-theorem.png"/><br>
-که در آن a و b اضلاع زاویه قائم مثلث و c <a id="footnote-ref-001" class="foot-note-reference" href="#footnote-001">[۱]</a> وتر هستند.
-که در آن a و b اضلاع زاویه قائم مثلث و c وتر هستند.
+که در آن a و b اضلاغ قائم مثلث و c وتر <a id="footnote-ref-001" class="foot-note-reference" href="#footnote-001">[۱]</a> هستند.
 </blackquote></p>
 
 صورت تصویری قضیه فیثاغورث به شکل زیر است:
