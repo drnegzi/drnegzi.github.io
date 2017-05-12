@@ -22,6 +22,6 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 <p><blackquote class="alert">
 معادله نقطه-شیب:<br>
-<img class="formula-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-the-pythaforean-theorem.png"/>
+<img class="formula-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-the-pythaforean-theorem.png"/><br>
 که در آن a و b اضلاع زاویه قائم مثلث و c وتر هستند.
 </blackquote></p>
