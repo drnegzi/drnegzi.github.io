@@ -23,7 +23,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 <p><blackquote class="alert">
 قضیه فیثاغورث:<br>
 <img class="formula-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-the-pythaforean-theorem.png"/><br>
-که در آن a و b اضلاع زاویه قائم مثلث و c<a id="footnote-ref-001" class="foot-note-reference" href="#footnote-001">[۱]</a> وتر هستند.
+که در آن a و b اضلاع زاویه قائم مثلث و c <a id="footnote-ref-001" class="foot-note-reference" href="#footnote-001">[۱]</a> وتر هستند.
 که در آن a و b اضلاع زاویه قائم مثلث و c وتر هستند.
 </blackquote></p>
 
@@ -32,5 +32,5 @@ description: شاید وقتی برای اولین بار به برنامه نو
 دقت داشته باشید که این قضیه تنها برای <span class="font-color-white">مثلث قائم الزاویه</span> صادق است.
 
 <div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a>Hypotenuse</span>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
 
