@@ -22,18 +22,14 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 <p><blackquote class="alert">
 قضیه فیثاغورث:<br>
-$a^2 + b^2 = c^2$
+$a^2 + b^2 = c^2$<br>
 که در آن a و b اضلاغ قائم مثلث و c وتر <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۱]</a> هستند.
 </blackquote></p>
-
-If $ax^2+bx+c=0$ with $a≠0$, then: $$x={-b±√{b^2-4ac}}/{2a}$$
 
 صورت تصویری قضیه فیثاغورث به شکل زیر است:
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-right-triangle.png"/>
 دقت داشته باشید که این قضیه تنها برای <span class="font-color-white">مثلث قائم الزاویه</span> صادق است.
 
-<div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
 
 صورت عکس قضیه فیثاغورت
 
@@ -44,3 +40,7 @@ If $ax^2+bx+c=0$ with $a≠0$, then: $$x={-b±√{b^2-4ac}}/{2a}$$
 کاربردهای مثلث قائم الزاویه را بعدا و هنگاه بررسی عملیات برداری بررسی خواهیم کرد، اما فعلا به استفاده از خواص مثلث‌های قائم الزاویه برای پیدا کردن فاصله بین دو نقطه، بسنده می‌کنیم.
 
 فرض کنید که دو نقطه 
+
+<div class="foot-note-header">پا نویس:</div>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
+
