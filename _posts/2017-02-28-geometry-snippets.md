@@ -22,6 +22,6 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 <p><blackquote class="alert">
 معادله نقطه-شیب:<br>
-<span>y - y<sub>۱</sub> = (x - x<sub>۱</sub>)m</span><br>
-این خط از نقطه <span>(x<sub>۱</sub>, y<sub>۱</sub>)</span> و با شیب m می‌گذرد.
+<img class="formula-image image-responsive" src="https://theskn.github.io/assets/img/2016-04-22/ch001-points-2d-coordinate-plane.png"/>
+که در آن a و b اضلاع زاویه قائم مثلث و c وتر هستند.
 </blackquote></p>
