@@ -22,7 +22,7 @@ description: شاید وقتی برای اولین بار به برنامه نو
 
 <p><blackquote class="alert">
 قضیه فیثاغورث:<br>
-$$a^2 + b^2 = c^2$$
+$a^2 + b^2 = c^2$
 که در آن a و b اضلاغ قائم مثلث و c وتر <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۱]</a> هستند.
 </blackquote></p>
 
