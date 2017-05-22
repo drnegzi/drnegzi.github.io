@@ -47,7 +47,7 @@ $X_2 - X_1)^2 + (Y_2 - Y_1)^2) = $
 
 با بازنویسی رابطه بالا، به فرمول <span class="highlight-text">محاسبه فاصله دو نقطه در فضای دو بعدی</span> می‌رسیم:
 
-$P_1P_2 = √{X_2 - X_1)^2 + (Y_2 - Y_1)^2)}$
+$P_1P_2 = {X_2 - X_1)^2 + (Y_2 - Y_1)^2)}√$
 
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
