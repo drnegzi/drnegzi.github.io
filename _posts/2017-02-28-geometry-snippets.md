@@ -67,6 +67,12 @@ float distance2D(float *P1, float *P2)
 }
 </pre>
 </div>
+<p><blackquote class="warning">
+در نظر داشته باشید که تابع pow(x, 2) در عین کاربرد فراوان، تابعی کند محسوب می‌شود، به طوریکه با ضرب کردن عددی که قصد به توان رساندن آن را داریم، به تعداد دفعات لازم، در خودش، ما را سریع‌تر به جواب می‌رساند. هر چند که اگر از یکی از compilerهای شرکت Microsoft استفاده می‌کنید، می‌توانید با استفاده از #pragma intrinsic به میزان قابل توجهی، سرعت اجرای اکثر توابع سرفایل &#60;
+cmath&#62; را افزایش دهید.
+</blackquote></p>
+
+
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
 
