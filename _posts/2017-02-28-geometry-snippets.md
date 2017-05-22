@@ -51,8 +51,22 @@ $X_2 - X_1)^2 + (Y_2 - Y_1)^2) = $
 $√{(X_2 - X_1)^2 + (Y_2 - Y_1)^2} = P_1P_2$
 </span>
 
+که دو نقطه $(P_1(X_1, Y_1$ و $(P_2(X_2, Y_2$ روی خط واقع شده‌اند.
 
-7
+حال وقت آن رسیده که به صورت نمونه، پیاده سازیی از مطلب بالا ارائه دهیم:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input: P1 - an array of 2 floats representing point 1
+//        P2 - an array of 2 floats representing point 2
+// output: the distance between the two given points
+
+float distance2D(float *P1, float *P2)
+{
+     return (float)sqrt(pow(P2[0] – P1[0], 2) + 
+                        pow(P2[1] – P1[1], 2);
+}
+</pre>
+</div>
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
 
