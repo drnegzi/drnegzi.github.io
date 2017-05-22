@@ -50,7 +50,7 @@ $X_2 - X_1)^2 + (Y_2 - Y_1)^2) = $
 <span class="ltr-direction">
 ${X_2 - X_1)^2 + (Y_2 - Y_1)^2} = P_1P_2)√$
 </span>
-
+2
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
 
