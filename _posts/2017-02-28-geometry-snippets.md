@@ -85,11 +85,11 @@ cmath&#62; را افزایش دهید.
 <bdi class="ltr-direction">
 <span>
 $√{(100 - 20)^2 + (90 - 50)^2} = AB$
-
+<br>
 $√{8000} =$
 </span>
 </bdi>
-
+-- br inputed
 و برای BC داریم:
 
 <span class="ltr-direction">
