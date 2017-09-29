@@ -41,9 +41,13 @@ $a^2 + b^2 = c^2$<br>
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-the-pythaforean-example.png"/>
 کاملا واضح است که می‌توانیم با رسم خطی که از $P_1P_2$ می‌گذرد و در نظر گرفتن آن به عنوان وتر، یک مثلث قائم الزاویه رسم کنیم، راس سوم این مثلث هم نقطه‌ای مانند <bdi class="ltr-direction">$T(X_2, Y_1)$</bdi> است. همان طور که واضح است، ضلع $P_1T$ دارای طول $(X_2 - X_1)$  و ضلع $P_2T$ دارای طول $(Y_2 - Y_1)$ است. حال با استفاده از قضیه فیثاغورث داریم:
 
-<bdi class="ltr-direction">$(P_1P_2)^2 = (P_1T)^2 + (P_2T)^2$</bdi>
+<bdi class="ltr-direction">
+<span>     
+$(P_1P_2)^2 = (P_1T)^2 + (P_2T)^2$
 
-<bdi class="ltr-direction">$= (X_2 - X_1)^2 + (Y_2 - Y_1)^2$</bdi>
+$= (X_2 - X_1)^2 + (Y_2 - Y_1)^2$
+</span>
+</bdi>
 
 -- bdi imported
 
