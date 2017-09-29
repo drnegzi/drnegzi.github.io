@@ -44,10 +44,11 @@ $a^2 + b^2 = c^2$<br>
 
 <bdi class="ltr-direction">$(P_1P_2)^2 = (P_1T)^2 + (P_2T)^2$</bdi>
 
+
 <bdi class="ltr-direction">$= (X_2 - X_1)^2 + (Y_2 - Y_1)^2$</bdi>
 
 
--- br removed
+-- br removed + two enters
 
 
 با بازنویسی رابطه بالا، به فرمول <span class="highlight-text">محاسبه فاصله دو نقطه در فضای دو بعدی</span> می‌رسیم:
