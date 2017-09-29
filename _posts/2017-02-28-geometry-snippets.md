@@ -83,7 +83,7 @@ cmath&#62; را افزایش دهید.
 -- bdi inputed
 <bdi class="ltr-direction">
 $√{(100 - 20)^2 + (90 - 50)^2} = AB$
-
+<br>
 $√{8000} =$
 </bdi>
 
