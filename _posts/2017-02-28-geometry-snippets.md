@@ -185,7 +185,26 @@ float *Find3dMidPoint(float *P1, float *P2)
 </pre>
 </div>
 
+<div class="post-inline-title">سهمی‌ها</div>
+آیا تا به حال به مسیر حرکت یک توپ بسکتبال بعد از پرتاب شدن دقت کردید؟ آیا این توپ روی یک مسیر صاف حرکت می‌کند؟ خیر، مسیر حرکت این توپ بیشتر به صورت منحنی و قوس‌دار به نظر می‌رسد. در واقع حرکت تمام پرتابه‌ها روی مسیری به شکل سهمی اتفاق می‌افتد.
+
+چهار نوع از انواع مختلف سهمی‌ها به این شکل هستند:
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-four-types-of-porabolas.png"/>
+برای تعیین معادله یک سهمی، از دو پارامتر استفاده می‌کنیم، پارامتر اول راس <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۲]</a> سهمی است و پارامتر دوم محور تقارن <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۳]</a> سهمی که از نقطه راس سهمی گذر می‌کند  باعث تقارن دو طرف سهمی با یکدیگر می‌شود. دو فرم کلی برای سهمی‌ها که دارای محور تقارن عموی یا افقی باشند، به شکل زیر بیان می‌شود:
+
+<p><blackquote class="alert">
+معادله یک سهمی با راس و محور تقارن عمودی<br>
+$y = a(x - h)^2 + k$<br>
+که <bdi class="ltr-direction">$(h, k)$</bdi> در آن راس سهمی و محور تقارن هم برابر با <bdi class="ltr-direction">$x= h$</bdi> است.
+</blackquote></p>
+
+<p><blackquote class="alert">
+معادله یک سهمی با راس و محور تقارن افقی<br>
+$x = a(y - k)^2 + h$<br>
+که <bdi class="ltr-direction">$(h, k)$</bdi> در آن راس سهمی و محور تقارن هم برابر با <bdi class="ltr-direction">$y= k$</bdi> است.
+</blackquote></p>
 
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
-
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۳]:</a> Axis of symmetry</span>
