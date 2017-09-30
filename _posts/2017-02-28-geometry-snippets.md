@@ -69,7 +69,7 @@ $P_1P_2 = ((X_2 - X_1)^2 + (Y_2 - Y_1)^2)^(1/2)$
 //        P2 - an array of 2 floats representing point 2
 // output: the distance between the two given points
 
-float distance2D(float *P1, float *P2)
+float Distance2D(float *P1, float *P2)
 {
      return (float)sqrt(pow(P2[0] – P1[0], 2) + 
                         pow(P2[1] – P1[1], 2);
@@ -144,6 +144,46 @@ $P_1P_2 = √{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$
 $M{({x_1 + x_2}/2, {y_1 + y_2}/2)}$
 </span>
 </bdi>
+ 
+اجازه دهید تا پیاده‌سازی این فرمول را با هم بررسی کنیم:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input: P1 - an array of 2 floats representing point 1
+//        P2 - an array of 2 floats representing point 2
+// output: the midpoint between the two given points
+
+float *Find2dMidPoint(float *P1, float *P2)
+{
+     float *temp = new float[2];
+     
+     temp[0] = (P1[0] + P2[0]) / 2.0f;
+     temp[1] = (P1[1] + P2[1]) / 2.0f;
+     
+     return temp;
+}
+</pre>
+</div>
+همانطوری که می‌بینید برای تخصیص حافظه کافی به متغیر temp از کلیدواژه new استفاده کردیم. همیشه باید به خاطر داشته باشیم تا بعد از به پایان رسیدن کارمان با متغیرهایی که از این طریق به آنها حافظه اختصاص داده شده است، حافظه مربوط به آنها را با استفاده از کلیدواژه delete پاکسازی کنیم.
+
+دقیقا همانند رابطه فاصله بین دو نقطه، رابطه پیدا کردن نقطه میانی را هم می‌توان به فضاهایی با ابعاد بیشتر تعمیم داد، پیاده سازی این حالت را با هم بررسی می‌کنیم:
+<div class="ltr-direction font-family-consolas">
+<pre class="brush: cpp">
+// input: P1 - an array of 3 floats representing point 1
+//        P2 - an array of 3 floats representing point 2
+// output: the midpoint between the two given points
+
+float *Find3dMidPoint(float *P1, float *P2)
+{
+     float *temp = new float[3];
+     
+     temp[0] = (P1[0] + P2[0]) / 2.0f;
+     temp[1] = (P1[1] + P2[1]) / 2.0f;
+     temp[2] = (P1[2] + P2[2]) / 2.0f;
+     
+     return temp;
+}
+</pre>
+</div>
 
 
 <div class="foot-note-header">پا نویس:</div>
