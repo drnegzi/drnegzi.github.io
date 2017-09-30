@@ -132,6 +132,19 @@ $12500 = 12500$
 <bdi class="ltr-direction">
 <span>
 $P_1P_2 = √{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$
+</span>
+</bdi>
+
+در نظر داشته باشید که نقاط <bdi class="ltr-direction">$P_1(x_1, y_1, z_1)$</bdi> و <bdi class="ltr-direction">$P_2(x_2, y_2, z_2)$</bdi> روی یک خط قرار دارند.
+
+رابطه پرکاربرد دیگر، رابطه تعیین نقطه وسط است. در مواقعی که نیاز داشتیم تا نقطه میانی بین دو نقطه مثل <bdi class="ltr-direction">$P_1(x_1, y_1)$</bdi> و <bdi class="ltr-direction">$P_2(x_2, y_2)$</bdi> را بدست آوریم، تنها کافیست که از فرمول زیر استفاده کنیم:
+
+<bdi class="ltr-direction">
+<span>
+$M{({x_1 + x_2}/2, {y_1 + y_2}/2)}$
+</span>
+</bdi>
+
 
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
