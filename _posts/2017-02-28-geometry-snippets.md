@@ -204,7 +204,9 @@ $x = a(y - k)^2 + h$<br>
 که <bdi class="ltr-direction">$(h, k)$</bdi> در آن راس سهمی و محور تقارن هم برابر با <bdi class="ltr-direction">$y= k$</bdi> است.
 </blackquote></p>
 
+هنگام نوشتن معادلات سهمی‌ها باید در نظر داشته باشیم که مقدار ثابت a مشخص کننده جهت باز شدن و پهنای عرض بین دو شاخه سهمی است. برای مثال اگر a یک میزان مثبت باشد، سهمیی با محور تقارن عمودی به سمت بالا و سهمیی با محور تقارن افقی به سمت راست باز می‎شود و به همین صورت اگر a مقداری منفی باشد، این جهت‌ها عکس می‌شوند. همچنین هر چه a به صفر نزدیک‌تر باشد، باعث پهنای بیشتر عرض سهمی در می‌شود و هرچه میزان <bdi class="ltr-direction">$|a|$</bdi> از صفر دورتر باشد، پهنای عرض فاصله بین دو شاخه سهمی کمتر می‌شود. این اطلاعات می‌توانند ما را برای تخمین و پیش‌بینی روی رفتار یک سهمی کمک کنند.
+
 <div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۳]:</a> Axis of symmetry</span>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span><br>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span><br>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۳]:</a> Axis of symmetry</span><br>
