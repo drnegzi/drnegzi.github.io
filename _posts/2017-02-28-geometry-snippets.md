@@ -206,11 +206,6 @@ $x = a(y - k)^2 + h$<br>
 
 هنگام نوشتن معادلات سهمی‌ها باید در نظر داشته باشیم که مقدار ثابت a مشخص کننده جهت باز شدن و پهنای عرض بین دو شاخه سهمی است. برای مثال اگر a یک میزان مثبت باشد، سهمیی با محور تقارن عمودی به سمت بالا و سهمیی با محور تقارن افقی به سمت راست باز می‎شود و به همین صورت اگر a مقداری منفی باشد، این جهت‌ها عکس می‌شوند. همچنین هر چه a به صفر نزدیک‌تر باشد، باعث پهنای بیشتر عرض سهمی در می‌شود و هرچه میزان <bdi class="ltr-direction">$|a|$</bdi> از صفر دورتر باشد، پهنای عرض فاصله بین دو شاخه سهمی کمتر می‌شود. این اطلاعات می‌توانند ما را برای تخمین و پیش‌بینی روی رفتار یک سهمی کمک کنند.
 
-<div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span><br>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span><br>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۳]:</a> Axis of symmetry</span><br>
-
 <div class="post-inline-title">دایره‌ها و کرات</div>
 یکی از معادلات پرکاربرد دیگری که نیاز به آشنایی با آن داریم، معادله یک دایره است. بررسی مسیر حرکت یک شی دور یک محور ثابت، یا محیط کردن یک دایره به دور یک شی دیگر و استفاده از این دایره برای تشخصیص برخورد دو شی با یکدیگر، نمونه‌ای از مواقعی است در آنها نیاز به شناخت و کار کردن با معادله یک دایره داریم.
 
@@ -234,3 +229,8 @@ struct Sphere
 }
 </pre>
 </div>
+
+<div class="foot-note-header">پا نویس:</div>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span><br>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span><br>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۳]:</a> Axis of symmetry</span><br>
