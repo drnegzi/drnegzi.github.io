@@ -231,10 +231,18 @@ struct Sphere
 </div>
 
 <p><blackquote class="alert">
-معادله یک دایره<br>
+معادله یک دایره:<br>
 <bdi class="ltr-direction">$(x - h)^2 + (y - k)^2 = r^2$</bdi><br>
 که در آن <bdi class="ltr-direction">$(h, k)$</bdi> مرکز دایره و r شعاع دایره است.
 </blackquote></p>
+
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2017-02-27/ch002-right-triangle.png"/>
+دایره مشخص شده در شکل بالا، دارای مرکز <bdi class="ltr-direction">$(-2, 2)$</bdi> و شعاع 3 است. با توجه به مطالب بیان شده، می‌توان معادله این دایره را به شکل زیر نوشت:
+
+<bdi class="ltr-direction">$(x + 2)^2 + (y - 2)^2 = 9
+     
+     
+
 
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span><br>
