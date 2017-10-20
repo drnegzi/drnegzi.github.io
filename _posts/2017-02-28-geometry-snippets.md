@@ -230,6 +230,12 @@ struct Sphere
 </pre>
 </div>
 
+<p><blackquote class="alert">
+معادله یک دایره<br>
+<bdi class="ltr-direction">$(x - h)^2 + (y - k)^2 = r^2$</bdi><br>
+که در آن <bdi class="ltr-direction">$(h, k)$</bdi> مرکز دایره و r شعاع دایره است.
+</blackquote></p>
+
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> Hypotenuse</span><br>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۲]:</a> Vertex</span><br>
