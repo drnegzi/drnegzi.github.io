@@ -32,6 +32,8 @@ description: انتخاب یک پیام رسان امن و مناسب همیشه
 
 <div class="font-color-white">الفبای تک فاصله</div>
 
+....
+
 <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۲]</a>
 
 <div class="foot-note-header">پا نویس:</div>
