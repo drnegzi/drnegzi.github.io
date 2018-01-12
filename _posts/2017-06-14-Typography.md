@@ -26,11 +26,11 @@ description: انتخاب یک پیام رسان امن و مناسب همیشه
 <div class="post-inline-title">تعاریف کاربردی</div>
 از آنجایی که تعاریف زیر در ادامه متن استفاده شده‌اند، شناخت و آشنایی با آنها مهم و ضروری است.
 
-<bdi class="ltr-direction"><span class="font-color-white">Alphabet<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-002">[۲]</a></span>:</bdi> گروهی از character‌های مرتبط به یکدیگر است. به صورت کلی، الفبا همراه با ویژگی‌های فرهنگی اجتماعی است که آن را به عنوان یک قرارداد در بین خود برگزیده‌اند.
+<bdi class="ltr-direction" align=left><span class="font-color-white">Alphabet<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-002">[۲]</a></span>:</bdi> گروهی از character‌های مرتبط به یکدیگر است. به صورت کلی، الفبا همراه با ویژگی‌های فرهنگی اجتماعی است که آن را به عنوان یک قرارداد در بین خود برگزیده‌اند.
 
-<bdi class="ltr-direction"><span class="font-color-white">Font<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>:</bdi> الفبا گروهی از character‌هاست که دارای اندازه، وزن و سبک منحصر بفرد خود است. اندازه بیانگر میزان فضایی اشغالی است که در برای صفحه‌های نمایش به صورت یک درصد و یا تعداد پیکسل بیان می‌شود. وزن بیانگر میزان تاکید بر و یا به زبان ساده‌تر میزان درشتی قلم و سبک بیانگر معمولی یا خوابیده بودن قلم است.
+<bdi class="ltr-direction" align=left><span class="font-color-white">Font<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>:</bdi> الفبا گروهی از character‌هاست که دارای اندازه، وزن و سبک منحصر بفرد خود است. اندازه بیانگر میزان فضایی اشغالی است که در برای صفحه‌های نمایش به صورت یک درصد و یا تعداد پیکسل بیان می‌شود. وزن بیانگر میزان تاکید بر و یا به زبان ساده‌تر میزان درشتی قلم و سبک بیانگر معمولی یا خوابیده بودن قلم است.
 
-<bdi class="ltr-direction"><span class="font-color-white">Monospace Alphabet<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۴]</a></span>:</bdi>
+<bdi class="ltr-direction" align=left><span class="font-color-white">Monospace Alphabet<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۴]</a></span>:</bdi>
 
 ....
 
