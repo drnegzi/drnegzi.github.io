@@ -30,7 +30,15 @@ description: انتخاب یک پیام رسان امن و مناسب همیشه
 
 <span class="font-color-white"><bdi>Font</bdi><a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: الفبا گروهی از character‌هاست که دارای اندازه، وزن و سبک منحصر بفرد خود است. اندازه بیانگر میزان فضایی اشغالی است که در برای صفحه‌های نمایش به صورت یک درصد و یا تعداد پیکسل بیان می‌شود. وزن بیانگر میزان تاکید بر و یا به زبان ساده‌تر میزان درشتی قلم و سبک بیانگر معمولی یا خوابیده بودن قلم است.
 
-<bdi class="ltr-direction" style="align:left"><span class="font-color-white">Monospace Alphabet<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۴]</a></span>:</bdi>
+<span class="font-color-white"><bdi>Monospace alphabet</bdi><a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: در این دسته تمام characterها دارای عرض برابر هستند. اسنادی که با ماشین تایپ یا چاپگرهای خطی تولید شده باشند از این دست هستند. خواندن متونی که Monospace هستند، با دشواری همراه است.
+
+<span class="font-color-white"><bdi>Proportional alphabet</bdi><a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: در این دست، هر character عرض انحصاری خود را دارد، برای مثال به تفاوت عرض حروف <span class="font-color-white">I</span> در کنار <span class="font-color-white">W</span> در هر دو حالت حروف بزرگ و کوچک توجه کنید. چاپگرهای جوهری یا لیزری می‌توانند هر دو دسته Monospace و یا Propotional را برای چاپ اسناد استفاده کنند. خواندن اسنادی که توسط این دسته تولید شده است، ساده‌تر است.
+
+<span class="font-color-white"><bdi>Typeface</bdi><a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: Typeface صورت کلی ظاهری یک character است.Typeface ویژگی که characterهای یک مجموعه character را دسته‌بندی می‌کند. Fontهایی که شکل ظاهری یکسانی دارند ولی دارای اندازه، ضخامت و حالت مختلف هستند، دارای یک Typeface هستند.
+
+<span class="font-color-white"><bdi>Typography</bdi><a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: آرایش characterها، کلمات و خطوط و دسته بندی خطوط جهت راحت‌تر کردن خوانایی یک متن را Typography می‌گویند. این فرِآیند شامل انتخاب یک Typeface، اندازه character، اندازه بین characterها در یک کلمه، و طول و فاصله بین خطوط است.
+
+
 
 ....
 ...
