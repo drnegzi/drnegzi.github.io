@@ -78,6 +78,14 @@ Typeface Copyright
 در نظر داشته باشید که در صورت استفاده از یک typeface نامتداول، برای WYSIWYG: What You See Is What You Get فقط باید امیدوار بود!
 </blackquote></p>
 
+علی‌رغم صدها Typefaceی که در Microsoft Word قابل استفاده هستند، تنها تعداد پنج تا از آنها در سطح وسیعی در کاربرد دارند: Courier New, Times New Roman, Arial, Georgia و Verdana.
+
+Courier New: monospace serif typeface much like Courier
+Times New Roman: proportional serif typeface much like Times Roman
+Arial: proportional sans serif typeface like much Helvetica
+
+می‌توانیم فرض کنیم که تقریبا اکثر سیستم‌هایی که در نهایت قصد نمایش متنمان روی آنها را داریم، از دسته‌های یاد شده یا دسته‌های مشابه آنها پشتیبانی می‌کنند.
+
 
 ....
 ...
