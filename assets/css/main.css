@@ -149,6 +149,15 @@ h1, h2, h3, h4, h5, p {
   direction: ltr;
 }
 
+.center {
+  text-align: center;
+}
+
+.center-bold {	
+  text-align: center;
+  font-weight: bolder;
+}
+
 .bg-color {
   background-color: #000;
 }
@@ -167,6 +176,10 @@ h1, h2, h3, h4, h5, p {
 
 .font-family-consolas {
   font-family: Consolas, monaco, monospace;
+}
+
+.font-weight-bolder {
+  font-weight: bolder;
 }
 
 .none-text-decoration {
@@ -206,7 +219,7 @@ h1, h2, h3, h4, h5, p {
   background-color: #008000;
   padding-right: 8px;
   padding-bottom: 2px;
-  padding-left: 8px;
+  padding-left: 8px;  
   margin: 2px;
 }
 
@@ -261,8 +274,17 @@ h1, h2, h3, h4, h5, p {
 
 }
 
+/* LAGACY CODE :))) */
 .sub-level-list {
   padding-left: 32px;
+}
+
+.sub-level-list-left {
+	padding-left: 32px;
+}
+
+.sub-level-list-right {
+	padding-right: 32px;
 }
 
 .list-style-type-persian {
@@ -673,14 +695,42 @@ h1, h2, h3, h4, h5, p {
 
 }
 
+/*legacy code*/
 .post-inline-title {
-  font-size: 36px;
+  font-size: 27px;
   color: #CCCCCC;
+  font-weight: bold;
   padding-bottom: 25px;
   padding-top: 8px;
   line-height: normal;
 }
 
+.post-inline-header {
+  font-size: 27px;
+  color: #CCCCCC;
+  font-weight: bold;
+  padding-bottom: 25px;
+  padding-top: 8px;
+  line-height: normal;
+}
+
+.post-inline-subheader {
+  font-size: 20px;
+  color: #CCCCCC;
+  font-weight: bold;
+  padding-bottom: 25px;
+  padding-top: 8px;
+  line-height: normal;
+}
+
+.post-inline-subsubheader {
+  font-size: 16px;
+  color: #CCCCCC;
+  font-style: italic;
+  padding-bottom: 25px;
+  padding-top: 8px;
+  line-height: normal;
+}
 /*
   ========================================
   adjacent-post - <!-- footer content
@@ -806,9 +856,14 @@ h1, h2, h3, h4, h5, p {
   text-decoration: none;
 }
 
-.formula-image {
-  float: right
-  display: block;
-}
+/*
+  ========================================
+  Pages
+  ========================================
+*/
 
+.formula-image {
+	float: right
+    display: block;
+}
 
