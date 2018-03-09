@@ -45,10 +45,10 @@ description: انتخاب یک پیام رسان امن و مناسب همیشه
 
 برای اینکه اسناد تولید شده، فارغ از نمایشگری که آنها را نمایش می‌دهد، یکسان باشند دو راه حل وجود دارد؛ راه اول که می‌توان آن را ساده دانست، عدم استفاده از characterهایی است که توسط هر سه مجموعه مورد پشتیبانی نیستند؛ و راه حل دوم که تقریبا سخت‌تر است، تغییر نحوه encoding <a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۱]</a> پیش‌فرض سند مورد نظر است.
 
-<div class="post-inline-header">غیر فعال کردن Unssuported Characterها در Word Processor مورد استفاده</div> 
+<div class="post-inline-subsubheader">غیر فعال کردن Unssuported Characterها در Word Processor مورد استفاده</div> 
 در حالت پیش‌فرض Microsoft Word و سایر word processorها از characterهایی استفاده می‌کنند که توسط همه سیستم‌ها پشتیبانی نمی‌شوند، اما دلیل این منظور خوانایی بیشتر این دست از characterهاست. بد نیست که در نظر داشته باشیم که characterهایی مثل Microsoft's Smart Quotes که در حاوی کلمه Smart در نام خود هستند، در غالب مواقع توسط خیلی از سیستم‌ها پشتیبانی نمی‌شوند. در نتیجه غیر فعال کردن این دست از charachterها بخش بزرگی از مشکلات را حل می‌کند. در محیط Microsoft Word و Libre Office Writer، می‌توانیم این characterها را با غیرفعال کردن گزینه <span class="font-color-white">AutoCorrect/AutoFormat As You Type/Replace As You Type</span> از کار بیاندازیم. هر چند که تجربه کارکردن با سیستم‌های Mac را نداشتم، ولی در این سیستم‌ها هم باید فرآیند مشابهی امکان پذیر باشد.
 
-<div class="post-inline-header">غیر فعال کردن دستی Unsupported Characterها</div> 
+<div class="post-inline-subsubheader">غیر فعال کردن دستی Unsupported Characterها</div> 
 در صورتی که در حال حاضر سندی که مشغول کار به آن هستید، حاوی این دست از characterهاست، راه راحتی برای حذف کردن آنها نداریم. تغییر تنظیماتی که در بالا ذکر شد، صرفا استفاده از مانع از استفاده جدید از این دست از characterها می‌شود و برای قسمت قبلی سندمان، به صورت دستی در تمام سند به دنبال این characterها بگردیم و آنها را با characterهای جدید، جایگزین کنیم.
 
 <div class="post-inline-header">انتخاب Typeface</div> 
