@@ -24,15 +24,15 @@ description: انتخاب یک پیام رسان امن و مناسب همیشه
 
 <span class="font-color-white"><bdi>Alphabet</bdi><a id="footnote-ref-002" style="font-style: normal;" class="foot-note-reference" href="#footnote-002">[۲]</a></span>: گروهی از نویسه‌های مرتبط به یکدیگر است. به صورت کلی، الفبا همراه با ویژگی‌های فرهنگی اجتماعی است که آن را به عنوان یک قرارداد در بین خود برگزیده‌اند.
 
-<span class="font-color-white"><bdi>Font</bdi><a id="footnote-ref-003" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: الفبا گروهی از نویسه‌هاست که دارای <bdi class="ltr-direction">size</bdi><a id="footnote-ref-004" style="font-style: normal;" class="foot-note-reference" href="#footnote-004">[۴]</a>، <bdi class="ltr-direction">weight</bdi><a id="footnote-ref-005" style="font-style: normal;" class="foot-note-reference" href="#footnote-005">[۵]</a> و <bdi class="ltr-direction">style</bdi><a id="footnote-ref-006" style="font-style: normal;" class="foot-note-reference" href="#footnote-006">[۶]</a> منحصر بفرد خود هستند. اندازه بیانگر میزان فضای اشغالی است که برای صفحه‌های نمایش به صورت یک درصد و یا تعداد پیکسل بیان می‌شود. وزن بیانگر میزان تاکید، و یا به زبان ساده‌تر میزان درشتی قلم و سبک بیانگر معمولی یا <bdi class="ltr-direction">italic</bdi><a id="footnote-ref-006" style="font-style: normal;" class="foot-note-reference" href="#footnote-006">[۶]</a> بودن قلم است.
+<span class="font-color-white"><bdi>Font</bdi><a id="footnote-ref-003" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a></span>: الفبا گروهی از نویسه‌هاست که دارای <bdi class="ltr-direction">size</bdi><a id="footnote-ref-004" style="font-style: normal;" class="foot-note-reference" href="#footnote-004">[۴]</a>، <bdi class="ltr-direction">weight</bdi><a id="footnote-ref-005" style="font-style: normal;" class="foot-note-reference" href="#footnote-005">[۵]</a> و <bdi class="ltr-direction">style</bdi><a id="footnote-ref-006" style="font-style: normal;" class="foot-note-reference" href="#footnote-006">[۶]</a> منحصر بفرد خود هستند. اندازه بیانگر میزان فضای اشغالی است که برای صفحه‌های نمایش به صورت یک درصد و یا تعداد پیکسل بیان می‌شود. وزن بیانگر میزان تاکید، و یا به زبان ساده‌تر میزان درشتی قلم و سبک بیانگر معمولی یا <bdi class="ltr-direction">italic</bdi><a id="footnote-ref-007" style="font-style: normal;" class="foot-note-reference" href="#footnote-007">[۷]</a> بودن قلم است.
 
-<span class="font-color-white"><bdi>Monospace alphabet</bdi><a id="footnote-ref-004" style="font-style: normal;" class="foot-note-reference" href="#footnote-004">[۷]</a></span>: در این دسته تمام نویسه‌ها دارای عرض برابر هستند. اسنادی که با ماشین تایپ یا چاپگرهای خطی تولید شده باشند از این دست هستند. خواندن متونی که monospace هستند، با دشواری همراه است.
+<span class="font-color-white"><bdi>Monospace alphabet</bdi><a id="footnote-ref-008" style="font-style: normal;" class="foot-note-reference" href="#footnote-008">[۸]</a></span>: در این دسته تمام نویسه‌ها دارای عرض برابر هستند. اسنادی که با ماشین تایپ یا چاپگرهای خطی تولید شده باشند از این دست هستند. خواندن متونی که monospace هستند، با دشواری همراه است.
 
-<span class="font-color-white"><bdi>Proportional alphabet</bdi><a id="footnote-ref-005" style="font-style: normal;" class="foot-note-reference" href="#footnote-005">[۸]</a></span>: در این دست، هر نویسه عرض انحصاری خود را دارد، برای مثال به تفاوت عرض حروف <span class="font-color-white">I</span> در کنار <span class="font-color-white">W</span> در هر دو حالت حروف بزرگ و کوچک توجه کنید. چاپگرهای جوهری یا لیزری می‌توانند هر دو دسته monospace و یا propotional را برای چاپ اسناد استفاده کنند. خواندن اسنادی که توسط این دسته تولید شده است، ساده‌تر است.
+<span class="font-color-white"><bdi>Proportional alphabet</bdi><a id="footnote-ref-009" style="font-style: normal;" class="foot-note-reference" href="#footnote-009">[۹]</a></span>: در این دست، هر نویسه عرض انحصاری خود را دارد، برای مثال به تفاوت عرض حروف <span class="font-color-white">I</span> در کنار <span class="font-color-white">W</span> در هر دو حالت حروف بزرگ و کوچک توجه کنید. چاپگرهای جوهری یا لیزری می‌توانند هر دو دسته monospace و یا propotional را برای چاپ اسناد استفاده کنند. خواندن اسنادی که توسط این دسته تولید شده است، ساده‌تر است.
 
-<span class="font-color-white"><bdi>Typeface</bdi><a id="footnote-ref-006" style="font-style: normal;" class="foot-note-reference" href="#footnote-006">[۹]</a></span>: صورت کلی ظاهری یک نویسه است. رویه ویژگیی است که نویسه‌های مختلف یک مجموعه نویسه را دسته‌بندی می‌کند. قلم‌هایی که شکل ظاهری یکسانی دارند ولی دارای اندازه، ضخامت و سبک مختلف هستند، دارای یک رویه هستند.
+<span class="font-color-white"><bdi>Typeface</bdi><a id="footnote-ref-010" style="font-style: normal;" class="foot-note-reference" href="#footnote-010">[۱۰]</a></span>: صورت کلی ظاهری یک نویسه است. رویه ویژگیی است که نویسه‌های مختلف یک مجموعه نویسه را دسته‌بندی می‌کند. قلم‌هایی که شکل ظاهری یکسانی دارند ولی دارای اندازه، ضخامت و سبک مختلف هستند، دارای یک رویه هستند.
 
-<span class="font-color-white"><bdi>Typography</bdi><a id="footnote-ref-007" style="font-style: normal;" class="foot-note-reference" href="#footnote-007">[۱۰]</a></span>: آرایش نویسه‌ها، کلمات و خطوط و دسته‌بندی خطوط جهت راحت‌تر کردن خوانایی یک متن را Typography می‌گویند. این فرآیند شامل انتخاب یک رویه، اندازه نویسه، اندازه بین نویسه‌ها در یک کلمه، و طول و فاصله بین خطوط است.
+<span class="font-color-white"><bdi>Typography</bdi><a id="footnote-ref-011" style="font-style: normal;" class="foot-note-reference" href="#footnote-011">[۱۱]</a></span>: آرایش نویسه‌ها، کلمات و خطوط و دسته‌بندی خطوط جهت راحت‌تر کردن خوانایی یک متن را Typography می‌گویند. این فرآیند شامل انتخاب یک رویه، اندازه نویسه، اندازه بین نویسه‌ها در یک کلمه، و طول و فاصله بین خطوط است.
 
 <div class="post-inline-title">نویسه‌های مناسب</div>
 تعریف <span class="font-color-white">نویسه‌های مناسب</span> براساس فرهنگ خواننده‌های متن شما معنا پیدا می‌کند. شاید بتوان گفت که ۳۰۰ سال قبل، در جواحع مختلف این چاپگرها بودند که مجموعه نویسه‌های مناسب آن جامعه یا فرهنگ را تعریف می‌کردند. ۱۰۰ سال قبل این تعریف توسط کارخانه‌های تولید ماشین‌های چاپ انجام می‌شد. ۵۰ سال قبل این کارخانه‌های تولید کامپیوترها و چاپگرها بودند که این مجموعه را تعریف می‌کردند. اما امروز، این گروه‌های تجاری، کشورها و یا گروهی از کشورها هستند که با ایجاد سازمان‌های استاندارد تولید کنندگان کامپیوترها و چاپگرها رو وادار به استاندارد کردن و رعایت یک مجموعه نویسه می‌کنند.
@@ -90,21 +90,15 @@ Arial: proportional sans serif typeface like much Helvetica
 
 در کنار اینها در نظر داشته باشید که اگر قصد دارید تا سندی که مشغول به تهیه آن هستید، توسط افراد مسن‌تر خوانده شود، نباید زیاد به خوشایند بودن اندازه‌های یاد شده امیدوار باشید. پیشناد من این است که در صورت که خواننده‌ یا خواننده‌های نسخه نهایی فرد و یا افرادی با سنی بالاتر از چهل سال هستند، درشت کردن اندازه یاد شده برای متن اصلی، به میزان یک واحد، می‌تواند کمک شایانی به تسهیل فرآیند خواندن برای آنان کند، هم‌چنین بد نیست که برای دسته افرادی که بالاتر از شصت سال دارند هم اندازه متن اصلی را سه واحد افزایش داد.
 
-<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۱]</a>
-<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۲]</a>
-
-
-....
-...
-...
-
-<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۲]</a>
-
 <div class="foot-note-header">پا نویس:</div>
 <span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a> نویسه</span><br>
 <span id="footnote-002" class="foot-note"><a href="#footnote-ref-002">[۲]:</a> الفبا</span><br>
 <span id="footnote-003" class="foot-note"><a href="#footnote-ref-003">[۳]:</a> قلم</span><br>
-<span id="footnote-004" class="foot-note"><a href="#footnote-ref-004">[۴]:</a> الفبای تک‌فاصله‌ای</span><br>
-<span id="footnote-005" class="foot-note"><a href="#footnote-ref-005">[۵]:</a> نویسه</span><br>
-<span id="footnote-006" class="foot-note"><a href="#footnote-ref-006">[۶]:</a> الفبا</span><br>
-<span id="footnote-007" class="foot-note"><a href="#footnote-ref-007">[۷]:</a> قلم</span><br>
+<span id="footnote-004" class="foot-note"><a href="#footnote-ref-004">[۴]:</a> اندازه</span><br>
+<span id="footnote-005" class="foot-note"><a href="#footnote-ref-005">[۵]:</a> وزن</span><br>
+<span id="footnote-006" class="foot-note"><a href="#footnote-ref-006">[۶]:</a> سبک</span><br>
+<span id="footnote-007" class="foot-note"><a href="#footnote-ref-007">[۷]:</a> خوابیده</span><br>
+<span id="footnote-008" class="foot-note"><a href="#footnote-ref-008">[۸]:</a> الفبای تک‌فاصله‌ای</span><br>
+<span id="footnote-009" class="foot-note"><a href="#footnote-ref-009">[۹]:</a> الفبای متناسب </span><br>
+<span id="footnote-010" class="foot-note"><a href="#footnote-ref-010">[۱۰]:</a> رویه</span><br>
+<span id="footnote-011" class="foot-note"><a href="#footnote-ref-011">[۱۱]:</a> فن چاپ</span><br>
