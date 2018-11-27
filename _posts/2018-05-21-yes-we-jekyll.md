@@ -57,6 +57,6 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
 
 
 <div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a>Martin Belam</span></br>
-<span id="footnote-002" class="foot-note"><a href="#footnote-ref-002">[۲]:</a>The Guardian</span></br>
-<span id="footnote-003" class="foot-note"><a href="#footnote-ref-003">[۳]:</a>[بخوانید](http://www.currybet.net/cbet_blog/2011/06/changing-guardian-guerilla-usability-testing.php)</span></br>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a>Martin Belam</span><br>
+<span id="footnote-002" class="foot-note"><a href="#footnote-ref-002">[۲]:</a>The Guardian</span><br>
+<span id="footnote-003" class="foot-note"><a href="#footnote-ref-003">[۳]:</a>[بخوانید](http://www.currybet.net/cbet_blog/2011/06/changing-guardian-guerilla-usability-testing.php)</span><br>
