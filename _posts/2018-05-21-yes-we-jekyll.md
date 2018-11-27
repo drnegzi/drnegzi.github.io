@@ -47,16 +47,14 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
  همیشه سعی کنید که عمیق‌ترین و اصلی‌ترین تمایلات مشتریانتان را هدف بگیرید و مشکلاتی را حل کنید که واقعا باعث آزار آنها می‌شوند.
  
  <div class="post-inline-subsubheader">واقعیت</div>
- همیشه در تلاش برای بدست آوردن اطلاعات دست اول از رفتار، تجربه و احساس مشتریان در قبال محصولتان باشید. مارتین بلام<a id="footnote-ref-001" class="foot-note-reference" href="#footnote-001">[۱]</a>، از روزنامه گاردین<a id="footnote-ref-002" class="foot-note-reference" href="#footnote-002">[۲]</a>، با اجرای <span class="highlight-text">[Guerrilla Usability Testing]()</span> در اماکن عمومی تلاش کرد تا نیاز مشتریان را با بررسی در محیط طبیعی بهتر درک کند.<a id="footnote-ref-003" class="foot-note-reference" href="#footnote-003">[۳]</a> 
+ همیشه در تلاش برای بدست آوردن اطلاعات دست اول از رفتار، تجربه و احساس مشتریان در قبال محصولتان باشید. مارتین بلام<a id="footnote-ref-001" style="font-style: normal;" class="foot-note-reference" href="#footnote-001">[۱]</a>، از روزنامه گاردین<a id="footnote-ref-002" style="font-style: normal;" class="foot-note-reference" href="#footnote-002">[۲]</a>، با اجرای <span class="highlight-text">[Guerrilla Usability Testing]()</span> در اماکن عمومی تلاش کرد تا نیاز مشتریان را با بررسی در محیط طبیعی بهتر درک کند.<a id="footnote-ref-003" style="font-style: normal;" class="foot-note-reference" href="#footnote-003">[۳]</a> 
  
  <div class="post-inline-subsubheader">شناسایی موانع</div>
- 
+ به دنبال پیدا کردن دلایلی باشید که مانع می‌شوند تا مشتریان قادر به پایان رساندن عملی خاص باشند. 
  
  <div class="post-inline-subsubheader">طراحی مشترک</div>
 
 <div class="foot-note-header">پا نویس:</div>
-<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a>Martin Belam</span>
-
-<span id="footnote-002" class="foot-note"><a href="#footnote-ref-002">[۲]:</a>The Guardian</span>
-
-<span id="footnote-003" class="foot-note"><a href="#footnote-ref-003">[۳]:</a>[بخوانید](http://www.currybet.net/cbet_blog/2011/06/changing-guardian-guerilla-usability-testing.php)</span>
+<span id="footnote-001" class="foot-note"><a href="#footnote-ref-001">[۱]:</a>Martin Belam</span></br>
+<span id="footnote-002" class="foot-note"><a href="#footnote-ref-002">[۲]:</a>The Guardian</span></br>
+<span id="footnote-003" class="foot-note"><a href="#footnote-ref-003">[۳]:</a>[بخوانید](http://www.currybet.net/cbet_blog/2011/06/changing-guardian-guerilla-usability-testing.php)</span></br>
