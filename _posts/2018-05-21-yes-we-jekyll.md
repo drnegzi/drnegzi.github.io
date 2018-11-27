@@ -46,10 +46,10 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
 <div class="post-inline-subheader">راه حل</div>
  همیشه سعی کنید که عمیق‌ترین و اصلی‌ترین تمایلات مشتریانتان را هدف بگیرید و مشکلاتی را حل کنید که واقعا باعث آزار آنها می‌شوند.
  
- <div class="post-inline-subsubheader">مطرح کردن سوال</div>
+ <div class="post-inline-subsubheader">واقعی باشید</div>
  
  
- <div class="post-inline-subsubheader">مطرح کردن سوال</div>
+ <div class="post-inline-subsubheader">شناسایی موانع</div>
  
  
- <div class="post-inline-subsubheader">مطرح کردن سوال</div>
+ <div class="post-inline-subsubheader">طراحی مشترک</div>
