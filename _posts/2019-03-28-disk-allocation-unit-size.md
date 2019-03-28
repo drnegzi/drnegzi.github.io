@@ -17,7 +17,7 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
 
 قطعا همه کاربران Windows dialogue زیر رو، که موقع format کردن یک drive به نمایش درمیاد رو به خاطر دارند. با هم نگاهی اجمالی به قسمت‌های مختلف این پنجره بیاندازیم:
 
-<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2019-03-28/format-dialogue.png"/>
+<img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2016-03-27/theskn-blog-post-jekyll-github-pages-001.png"/>
 
 <span class="font-color-white">Capacity: </span>مشخص کننده میزان ظرفیت کل partitionیست که قصد format کردن آن را داریم.
 
