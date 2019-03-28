@@ -19,13 +19,14 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
 
 <img class="post-image image-responsive" src="https://theskn.github.io/assets/img/2019-03-28/format-dialogue.png"/>
 
-<div class="post-inline-subheader">Capacity</div>
-مشخص کننده میزان ظرفیت کل partitionیست که قصد format کردن آن را داریم.
-<div class="post-inline-subheader">Volume lablel</div>
-از طریق این ویژگی می‌توانیم برای driveمان یک اسم دلخواد انتخاب کنیم.
-<div class="post-inline-subheader">File system</div>
-از طریق این گزینه می‌توانیم [file system](https://docs.microsoft.com/en-us/windows/desktop/fileio/file-systems) مورد نظرمان را انتخاب کنیم، در Windows 10 به جز، برخی از نسخه‌های Enterprise حق انتخاب ما محدود به [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview) و یا REFS است؛ هر چند که برای partitionهای کوچک، FAT و [FAT32](https://support.microsoft.com/en-au/help/154997/description-of-the-fat32-file-system) هم به این انتخاب‌ها اضافه می‌شوند.
-<div class="post-inline-subheader">Perform a quick format</div>
+<span class="font-color-white">Capacity: </span>مشخص کننده میزان ظرفیت کل partitionیست که قصد format کردن آن را داریم.
+
+<span class="font-color-white">Volume lablel: </span>از طریق این ویژگی می‌توانیم برای driveمان یک اسم دلخواد انتخاب کنیم.
+
+<span class="font-color-white"File system: </span>از طریق این گزینه می‌توانیم [file system](https://docs.microsoft.com/en-us/windows/desktop/fileio/file-systems) مورد نظرمان را انتخاب کنیم، در Windows 10 به جز، برخی از نسخه‌های Enterprise حق انتخاب ما محدود به [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview) و یا REFS است؛ هر چند که برای partitionهای کوچک، FAT و [FAT32](https://support.microsoft.com/en-au/help/154997/description-of-the-fat32-file-system) هم به این انتخاب‌ها اضافه می‌شوند.
+
+<span class="font-color-white">Perform a quick format: </span>
 به صورت عادی، دستور format ابتدا drive را به جهت پیدا کردن [bad sector](https://www.howtogeek.com/173463/bad-sectors-explained-why-hard-drives-get-bad-sectors-and-what-you-can-do-about-it/)های احتمالی مورد بررسی قرار می‌دهد. این گزینه باعث می‌شود تا format بدون اجرای این تست، اجرا شود.
-<div class="post-inline-subheader">Enable file and folder compression</div>
+
+<span class="font-color-white">Enable file and folder compression: </span>
 باعث می‌شود تا در این partition، تمام fileها به صورت فشرده ذخیره شوند. معمولا به دلیل سربار بالای اجرای این ویژگی، از آن استفاده نمی‌شود. همانطور که در تصویر هم می‌بینیم، این ویژگی در نسخه Windows دستگاه من، از طریق format dialogue قابل دسترسی نیست.
