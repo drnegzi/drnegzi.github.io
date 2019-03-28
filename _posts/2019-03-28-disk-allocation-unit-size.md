@@ -13,7 +13,7 @@ comments: true
 series: 
 description: بررسی چگونگی ارائه مدل‌ها و راه حل‌های ارائه راهکارهای خلاق و نوآورانه در شرکت‌ها و سازمان‌های بزرگ، به جهت ساده سازی مسائل بزرگ و پیچیده‌ای که هر روز با آنها مواجه می‌شویم.
 ---
-خیلی از افراد در محیط Windows به هنگام format کردن driveهای مختلف، وظیفه مدیریت کردن ویژگی‌های partitionهاشون رو بر عهده سیستم عامل رها می‌کنن. این کار به خودی خود دچار مشکلی نیست، ولی بعضی مواقعی هم وجود دارند که تنظیم این ویژگی‌ها به صورت دستی، برای ما مفیدتر از تنظیمات پیش‌فرض سیستم عامل باشن. در این پست قصد دارم تا در مورد یکی از ویژگی‌های قابل تنظیم در هنگام format کردن driveهایمان، یعنی allocation unit، و هدف و نحوه بهره‌مند شدن از این ویژگی بنویسم.
+خیلی از افراد در محیط Windows به هنگام format کردن driveهای مختلف، وظیفه مدیریت کردن ویژگی‌های partitionهاشون رو بر عهده سیستم عامل رها می‌کنن. این کار به خودی خود دچار مشکلی نیست، ولی بعضی مواقعی هم وجود دارند که تنظیم این ویژگی‌ها به صورت دستی، برای ما مفیدتر از تنظیمات پیش‌فرض سیستم عامل باشن. در این پست قصد دارم تا در مورد یکی از ویژگی‌های قابل تنظیم در هنگام format کردن driveهایمان، یعنی <span class="highlight-text">allocation unit</span>، و هدف و نحوه بهره‌مند شدن از این ویژگی بنویسم.
 
 قطعا همه کاربران Windows پنجره زیر رو، که موقع format کردن یک drive به نمایش درمیاد رو به خاطر دارند. با هم نگاهی اجمالی به قسمت‌های مختلف این پنجره بیاندازیم:
 
@@ -23,7 +23,7 @@ description: بررسی چگونگی ارائه مدل‌ها و راه حل‌�
 
 <span class="font-color-white">Volume lablel: </span>از طریق این ویژگی می‌توانیم برای driveمان یک اسم دلخواد انتخاب کنیم.
 
-<span class="font-color-white"File system: </span>از طریق این گزینه می‌توانیم [file system](https://docs.microsoft.com/en-us/windows/desktop/fileio/file-systems) مورد نظرمان را انتخاب کنیم، در Windows 10 به جز، برخی از نسخه‌های Enterprise حق انتخاب ما محدود به [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview) و یا REFS است؛ هر چند که برای partitionهای کوچک، FAT و [FAT32](https://support.microsoft.com/en-au/help/154997/description-of-the-fat32-file-system) هم به این انتخاب‌ها اضافه می‌شوند.
+<span class="font-color-white"File system: </span>از طریق این گزینه می‌توانیم [file system](https://docs.microsoft.com/en-us/windows/desktop/fileio/file-systems) مورد نظرمان را انتخاب کنیم، در Windows 10 به جز برخی از نسخه‌های Enterprise، حق انتخاب ما محدود به [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview) و یا REFS است؛ هر چند که برای partitionهای کوچک، FAT و [FAT32](https://support.microsoft.com/en-au/help/154997/description-of-the-fat32-file-system) هم به این انتخاب‌ها اضافه می‌شوند.
 
 <span class="font-color-white">Perform a quick format: </span>
 به صورت عادی، دستور format ابتدا drive را به جهت پیدا کردن [bad sector](https://www.howtogeek.com/173463/bad-sectors-explained-why-hard-drives-get-bad-sectors-and-what-you-can-do-about-it/)های احتمالی مورد بررسی قرار می‌دهد. این گزینه باعث می‌شود تا format بدون اجرای این تست، اجرا شود.
